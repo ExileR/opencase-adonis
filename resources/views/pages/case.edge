@@ -1,0 +1,117 @@
+@layout('layout')
+@section('content')
+<script type="text/javascript">
+    var currentCase = '{{ info.url }}';
+    var cases = 
+	[ 
+	@each(i in items) 
+	["{{ i.rar }}", "{{ i.classid }}", "{{ i.name_ru }}"], 
+	@endeach 
+	]
+        ;
+</script>
+<div class="breadcrumb">
+    {{ info.name }}
+</div>
+<div class="case">
+
+    <div class="wrap-sound-rice">
+        <div class="price">{{ info.price }} Р</div>
+    </div>
+
+    @if(!auth.user)
+        <div class="case-frame"><img src="{{ info.images }}" alt=""></div>
+        <div class="message">Для открытия кейса необходима авторизация!</div>
+        <div class="auth-form clear">
+            <div onclick="window.location.href='/login/steam'" class="heading" href="/login/steam">
+                <div class="ico-lock"></div>
+                Авторизация
+            </div>
+        </div>
+    @elseif(auth.user && auth.user.money < info.price)
+        <div class="case-frame"><img src="{{ info.images }}" alt="">
+
+            <div class="error-balance">
+                <div class="text">Недостаточно средств<br>для открытия кейса<span>ПОПОЛНИТЕ СЧЕТ</span></div>
+            </div>
+
+        </div>
+        <div class="pay-form">
+            <input type="text" class="input" placeholder="Введите сумму">
+            <button type="submit" rel="popup" data-popup="popup-pay" class="btn-ok">ОК</button>
+        </div>
+    @else
+        <div class="roulette">
+            <div class="hidden">
+                <div class="overview">
+                    <div id="scrollerContainer">
+                        <div id="caruselLine"></div>
+                        <div id="caruselOver"></div>
+                        <div id="aCanvas">
+                            <div id="casesCarusel" class="slider"></div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="roulette-arrow"></div>
+        </div>
+
+        <div class="message">Для открытия кейса нажмите на кнопку ниже!</div>
+        <div class="auth-form clear">
+            <div href="javascript:void(0)" id="gogame" class="heading">Открыть кейс</div>
+        </div>
+    @endif
+
+</div>
+<div class="live-drop">
+    <div class="heading">
+        <span>Live-дроп </br>из кейса:</span>
+    </div>
+    <div class="list">
+        <div class="overview clear">
+            <div id="LastCase">
+			    @each(win in casedrop)
+                    <a href="/user/{{ win.userid }}" class="item {{ win.rar }}">
+                        <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/{{ win.classid }}/90fx57f"
+                             alt="">
+                        <div class="caption">
+                            <div class="image"><img class="item-history-userpic" src="{{ win.avatar }}" alt=""></div>
+                            <div class="name">{{ win.nickname }}</div>
+                            <div class="desc">{{ win.name_ru }}</div>
+                        </div>
+                    </a>
+                @endeach
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sub-title">ПРЕДМЕТЫ КОТОРЫЕ МОГУТ ВЫПАСТЬ:</div>
+<div class="list-items clear">
+    @each(i in items) 
+        <div class="item {{ i.rar }}">
+            <div class="image"><img
+                        src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/{{ i.classid }}/158fx118f"
+                        alt=""></div>
+            <div class="info">
+                <div class="name">{{ i.name_ru.split('|').slice(0, -1).join(' '); }}</div>
+                <div class="desc">{{ i.name_ru.split('|').slice(1).join(' '); }}</div>
+            </div>
+        </div>
+    @endeach
+</div>
+
+
+<div class="win" style="display: none;">
+    <div class="name"></div>
+    <div></div>
+    <img src="">
+    <div class="buttons">
+        <a class="btn-sell-item" href="javascript:void(0)">Продать за <span></span> Р</a>
+        <a href="javascript:void(0)" class="go-next"> Открыть ещё </a>
+        <a href="/user/13099">Вывести </a>
+    </div>
+</div>
+@endsection
+

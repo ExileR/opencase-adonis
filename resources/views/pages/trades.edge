@@ -1,0 +1,35 @@
+@layout('layout')
+@section('content')
+<div class="title">Лайв трейды</div>
+<div class="table-wrapper">
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>Номер</th>
+            <th>Предмет</th>
+            <th>Пользователь</th>
+            <th>Время</th>
+        </tr>
+         @each(i in trades)
+            <tr>
+                <td>{{ i.num }}</td>
+                <td>
+				<div class="avatar">
+					<img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/{{ i.classid }}/34fx34f" alt="" title="">
+				</div>
+				 {{ i.name_ru }}				
+				</td>
+				<td>
+                    <div class="avatar">
+                        <a href="/user/{{ i._id }}"><img src="{{ i.avatar }}" alt="" title=""></a>
+                    </div>
+					<a href="#" class="user-name"></a><a href="/user/{{ i._id }}">{{ i.nickname }}</a>
+				</td>
+                <td>{{ i.time }}</td>
+            </tr>
+        @endeach
+
+        </tbody>
+    </table>
+</div>
+@endsection

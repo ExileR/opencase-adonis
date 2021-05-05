@@ -1,0 +1,46 @@
+﻿@layout('layout')
+@section('content')
+<div class="cases clear">
+    @each(i in info)
+		@if(i.type == 0)
+        <a href="/case/{{ i.url }}" class="item var{{ ($loop.index + 1) }}" id="case_13">
+			<div class="image"><img src="{{ i.images }}" alt="{{ i.name }}" alt=""></div>
+		    <div class="name">{{ i.name }}</div>
+            <div class="price">
+                <span class="old">{{ i.percent }} р.</span> <span class="new">{{ i.price }} р.</span>
+            </div>
+        </a>
+		@endif
+    @endeach
+</div>
+
+<div class="title">Фирменные кейсы</div>
+<div class="cases clear">
+    @each(i in info)
+		@if(i.type == 1)
+        <a href="/case/{{ i.url }}" class="item var{{ i.id }}" id="case_13">
+		    <div class="image"><img src="{{ i.images }}" alt="{{ i.name }}" alt=""></div>
+		    <div class="name">{{ i.name }}</div>
+            <div class="price">
+                <span class="old">{{ i.percent }} р.</span> <span class="new">{{ i.price }} р.</span>
+            </div>
+        </a>
+		@endif
+    @endeach
+</div>
+
+<div class="title">Кейсы операций</div>
+<div class="cases clear">
+    @each(i in info)
+		@if(i.type == 2)
+        <a href="/case/{{ i.url }}" class="item var11" id="case_13">
+		    <div class="image"><img src="{{ i.images }}" alt="{{ i.name }}" alt=""></div>
+		    <div class="name">{{ i.name }}</div>
+            <div class="price">
+                <span class="old">{{ i.percent }} р.</span> <span class="new">{{ i.price }} р.</span>
+            </div>
+        </a>
+		@endif
+    @endeach
+</div>
+@endsection

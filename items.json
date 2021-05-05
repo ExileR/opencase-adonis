@@ -1,0 +1,5741 @@
+[{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629883"
+  },
+  "id": 1,
+  "name_ru": "Negev | Анодированная синева",
+  "name_en": "Negev | Anodized Navy ",
+  "classid": "310778274",
+  "price": 2792,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629884"
+  },
+  "id": 2,
+  "name_ru": "AK-47 | Черный глянец",
+  "name_en": "AK-47 | Black Laminate ",
+  "classid": "310801874",
+  "price": 477,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629885"
+  },
+  "id": 3,
+  "name_ru": "AUG | Анодированная синева",
+  "name_en": "AUG | Anodized Navy ",
+  "classid": "310776678",
+  "price": 410,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629886"
+  },
+  "id": 4,
+  "name_ru": "AUG | Медянка",
+  "name_en": "AUG | Copperhead ",
+  "classid": "310777475",
+  "price": 318,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629887"
+  },
+  "id": 5,
+  "name_ru": "AUG | Хот-род",
+  "name_en": "AUG | Hot Rod ",
+  "classid": "310777302",
+  "price": 2787,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629888"
+  },
+  "id": 6,
+  "name_ru": "AUG | Рикошет",
+  "name_en": "AUG | Ricochet ",
+  "classid": "1440503485",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629889"
+  },
+  "id": 7,
+  "name_ru": "AUG | Крылья",
+  "name_en": "AUG | Wings ",
+  "classid": "372455526",
+  "price": 52,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988a"
+  },
+  "id": 8,
+  "name_ru": "AWP | Змеиная кожа",
+  "name_en": "AWP | Snake Camo ",
+  "classid": "310781076",
+  "price": 328,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988b"
+  },
+  "id": 9,
+  "name_ru": "CZ75-Auto | Кровавая паутина",
+  "name_en": "CZ75-Auto | Crimson Web ",
+  "classid": "350472176",
+  "price": 11,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988c"
+  },
+  "id": 10,
+  "name_ru": "CZ75-Auto | Изумруд",
+  "name_en": "CZ75-Auto | Emerald ",
+  "classid": "992107920",
+  "price": 114,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988d"
+  },
+  "id": 11,
+  "name_ru": "CZ75-Auto | Гексан",
+  "name_en": "CZ75-Auto | Hexane ",
+  "classid": "549063331",
+  "price": 9,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988e"
+  },
+  "id": 12,
+  "name_ru": "CZ75-Auto | Штамп",
+  "name_en": "CZ75-Auto | Imprint ",
+  "classid": "2149488793",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462988f"
+  },
+  "id": 13,
+  "name_ru": "CZ75-Auto | Нитро",
+  "name_en": "CZ75-Auto | Nitro ",
+  "classid": "519987900",
+  "price": 105,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629890"
+  },
+  "id": 14,
+  "name_ru": "CZ75-Auto | Смокинг",
+  "name_en": "CZ75-Auto | Tuxedo ",
+  "classid": "469455217",
+  "price": 7,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629891"
+  },
+  "id": 15,
+  "name_ru": "CZ75-Auto | Спираль",
+  "name_en": "CZ75-Auto | Twist ",
+  "classid": "506854993",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629892"
+  },
+  "id": 16,
+  "name_ru": "Desert Eagle | Бронзовая декорация",
+  "name_en": "Desert Eagle | Bronze Deco ",
+  "classid": "937243362",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629893"
+  },
+  "id": 17,
+  "name_ru": "Desert Eagle | Послание коринфянам",
+  "name_en": "Desert Eagle | Corinthian ",
+  "classid": "1440503462",
+  "price": 21,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629894"
+  },
+  "id": 18,
+  "name_ru": "Desert Eagle | Метеорит",
+  "name_en": "Desert Eagle | Meteorite ",
+  "classid": "469432145",
+  "price": 18,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629895"
+  },
+  "id": 19,
+  "name_ru": "Desert Eagle | Городской щебень",
+  "name_en": "Desert Eagle | Urban Rubble ",
+  "classid": "310776804",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629896"
+  },
+  "id": 20,
+  "name_ru": "Dual Berettas | Анодированная синева",
+  "name_en": "Dual Berettas | Anodized Navy ",
+  "classid": "310778648",
+  "price": 12,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629897"
+  },
+  "id": 21,
+  "name_ru": "Dual Berettas | Черная лимба",
+  "name_en": "Dual Berettas | Black Limba ",
+  "classid": "310776498",
+  "price": 33,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629898"
+  },
+  "id": 22,
+  "name_ru": "Dual Berettas | Картель",
+  "name_en": "Dual Berettas | Cartel ",
+  "classid": "1560431440",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629899"
+  },
+  "id": 23,
+  "name_ru": "Dual Berettas | Драконий дуэт",
+  "name_en": "Dual Berettas | Dualing Dragons ",
+  "classid": "1309993736",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989a"
+  },
+  "id": 24,
+  "name_ru": "Dual Berettas | Пантера",
+  "name_en": "Dual Berettas | Panther ",
+  "classid": "350462890",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989b"
+  },
+  "id": 25,
+  "name_ru": "Dual Berettas | Духовики",
+  "name_en": "Dual Berettas | Ventilators ",
+  "classid": "1703051986",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989c"
+  },
+  "id": 26,
+  "name_ru": "FAMAS | Смертенок",
+  "name_en": "FAMAS | Doomkitty ",
+  "classid": "310776589",
+  "price": 36,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989d"
+  },
+  "id": 27,
+  "name_ru": "FAMAS | Гексан",
+  "name_en": "FAMAS | Hexane ",
+  "classid": "310776519",
+  "price": 41,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989e"
+  },
+  "id": 28,
+  "name_ru": "FAMAS | Выживший",
+  "name_en": "FAMAS | Survivor Z ",
+  "classid": "1309991124",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462989f"
+  },
+  "id": 29,
+  "name_ru": "FAMAS | Демонтаж",
+  "name_en": "FAMAS | Teardown ",
+  "classid": "310776853",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a0"
+  },
+  "id": 30,
+  "name_ru": "Five-SeveN | Ками",
+  "name_en": "Five-SeveN | Kami ",
+  "classid": "310776546",
+  "price": 16,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a1"
+  },
+  "id": 31,
+  "name_ru": "Five-SeveN | Паслен",
+  "name_en": "Five-SeveN | Nightshade ",
+  "classid": "310776889",
+  "price": 15,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a2"
+  },
+  "id": 32,
+  "name_ru": "Five-SeveN | Нитро",
+  "name_en": "Five-SeveN | Nitro ",
+  "classid": "992266845",
+  "price": 58,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a3"
+  },
+  "id": 33,
+  "name_ru": "Five-SeveN | Серебряный кварц",
+  "name_en": "Five-SeveN | Silver Quartz ",
+  "classid": "310800933",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a4"
+  },
+  "id": 34,
+  "name_ru": "Five-SeveN | Скумбрия",
+  "name_en": "Five-SeveN | Scumbria ",
+  "classid": "1934415956",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a5"
+  },
+  "id": 35,
+  "name_ru": "Five-SeveN | Городская опасность",
+  "name_en": "Five-SeveN | Urban Hazard ",
+  "classid": "638241022",
+  "price": 25,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a6"
+  },
+  "id": 36,
+  "name_ru": "G3SG1 | Лазурная зебра",
+  "name_en": "G3SG1 | Azure Zebra ",
+  "classid": "310776645",
+  "price": 15,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a7"
+  },
+  "id": 37,
+  "name_ru": "G3SG1 | Витраж",
+  "name_en": "G3SG1 | Demeter ",
+  "classid": "310776598",
+  "price": 35,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a8"
+  },
+  "id": 38,
+  "name_ru": "G3SG1 | Мрак",
+  "name_en": "G3SG1 | Murky ",
+  "classid": "638240890",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298a9"
+  },
+  "id": 39,
+  "name_ru": "G3SG1 | Оранжевые осколки",
+  "name_en": "G3SG1 | Orange Crash ",
+  "classid": "1703070901",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298aa"
+  },
+  "id": 40,
+  "name_ru": "G3SG1 | Духовик",
+  "name_en": "G3SG1 | Ventilator ",
+  "classid": "1934414790",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ab"
+  },
+  "id": 41,
+  "name_ru": "Galil AR | Водная терраса",
+  "name_en": "Galil AR | Aqua Terrace ",
+  "classid": "992156611",
+  "price": 153,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ac"
+  },
+  "id": 42,
+  "name_ru": "Galil AR | Синий титан",
+  "name_en": "Galil AR | Blue Titanium ",
+  "classid": "310776753",
+  "price": 19,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ad"
+  },
+  "id": 43,
+  "name_ru": "M249 | Магма",
+  "name_en": "M249 | Magma ",
+  "classid": "310777415",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ae"
+  },
+  "id": 44,
+  "name_ru": "M249 | Призрак",
+  "name_en": "M249 | Spectre ",
+  "classid": "1703079355",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298af"
+  },
+  "id": 45,
+  "name_ru": "M249 | Блокировка",
+  "name_en": "M249 | System Lock ",
+  "classid": "720288540",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b0"
+  },
+  "id": 46,
+  "name_ru": "Galil AR | Ками",
+  "name_en": "Galil AR | Kami ",
+  "classid": "469437423",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b1"
+  },
+  "id": 47,
+  "name_ru": "Galil AR | Леденец",
+  "name_en": "Galil AR | Rocket Pop ",
+  "classid": "1011935134",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b2"
+  },
+  "id": 48,
+  "name_ru": "Galil AR | Песчаная буря",
+  "name_en": "Galil AR | Sandstorm ",
+  "classid": "310776556",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b3"
+  },
+  "id": 49,
+  "name_ru": "Galil AR | Осколки",
+  "name_en": "Galil AR | Shattered ",
+  "classid": "310777051",
+  "price": 34,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b4"
+  },
+  "id": 50,
+  "name_ru": "Galil AR | Смокинг",
+  "name_en": "Galil AR | Tuxedo ",
+  "classid": "469446099",
+  "price": 7,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b5"
+  },
+  "id": 51,
+  "name_ru": "Glock-18 | Синяя трещина",
+  "name_en": "Glock-18 | Blue Fissure ",
+  "classid": "350462817",
+  "price": 31,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b6"
+  },
+  "id": 52,
+  "name_ru": "Glock-18 | Горелка Бунзена",
+  "name_en": "Glock-18 | Bunsen Burner ",
+  "classid": "1011934443",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b7"
+  },
+  "id": 53,
+  "name_ru": "Glock-18 | Карамельное яблоко",
+  "name_en": "Glock-18 | Candy Apple ",
+  "classid": "310776817",
+  "price": 19,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b8"
+  },
+  "id": 54,
+  "name_ru": "Glock-18 | Захоронение",
+  "name_en": "Glock-18 | Catacombs ",
+  "classid": "720282219",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298b9"
+  },
+  "id": 55,
+  "name_ru": "Glock-18 | Реактор",
+  "name_en": "Glock-18 | Reactor ",
+  "classid": "575563074",
+  "price": 65,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ba"
+  },
+  "id": 56,
+  "name_ru": "Glock-18 | Призраки",
+  "name_en": "Glock-18 | Wraiths ",
+  "classid": "1309991125",
+  "price": 7,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298bb"
+  },
+  "id": 57,
+  "name_ru": "M4A1-S | Кровавый тигр",
+  "name_en": "M4A1-S | Blood Tiger ",
+  "classid": "310776527",
+  "price": 116,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298bc"
+  },
+  "id": 58,
+  "name_ru": "M4A1-S | Смешанный камуфляж",
+  "name_en": "M4A1-S | VariCamo ",
+  "classid": "310780353",
+  "price": 13,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298bd"
+  },
+  "id": 59,
+  "name_ru": "M4A4 | Тусклые полосы",
+  "name_en": "M4A4 | Faded Zebra ",
+  "classid": "310776579",
+  "price": 51,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298be"
+  },
+  "id": 60,
+  "name_ru": "M4A4 | Радиационная опасность",
+  "name_en": "M4A4 | Radiation Hazard ",
+  "classid": "310776628",
+  "price": 307,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298bf"
+  },
+  "id": 61,
+  "name_ru": "MAG-7 | Ядро кобальта",
+  "name_en": "MAG-7 | Cobalt Core ",
+  "classid": "1309990996",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c0"
+  },
+  "id": 62,
+  "name_ru": "MAC-10 | Ультрафиолет",
+  "name_en": "MAC-10 | Ultraviolet ",
+  "classid": "527639847",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c1"
+  },
+  "id": 63,
+  "name_ru": "MAC-10 | Хроматика",
+  "name_en": "MAC-10 | Rangeen ",
+  "classid": "1374452767",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c2"
+  },
+  "id": 64,
+  "name_ru": "MAC-10 | Ядерный сад",
+  "name_en": "MAC-10 | Nuclear Garden ",
+  "classid": "575589226",
+  "price": 21,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c3"
+  },
+  "id": 65,
+  "name_ru": "MAC-10 | Янтарный градиент",
+  "name_en": "MAC-10 | Amber Fade ",
+  "classid": "310780590",
+  "price": 67,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c4"
+  },
+  "id": 66,
+  "name_ru": "MAG-7 | Антитерраса",
+  "name_en": "MAG-7 | Counter Terrace ",
+  "classid": "992127342",
+  "price": 153,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c5"
+  },
+  "id": 67,
+  "name_ru": "MAG-7 | Поджигатель",
+  "name_en": "MAG-7 | Firestarter ",
+  "classid": "638240835",
+  "price": 9,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c6"
+  },
+  "id": 68,
+  "name_ru": "MAC-10 | Градиент",
+  "name_en": "MAC-10 | Fade ",
+  "classid": "992131749",
+  "price": 172,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c7"
+  },
+  "id": 69,
+  "name_ru": "MAC-10 | Лазурный хищник",
+  "name_en": "MAC-10 | Lapis Gator ",
+  "classid": "1560431671",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c8"
+  },
+  "id": 70,
+  "name_ru": "MAG-7 | Желто-черные полосы",
+  "name_en": "MAG-7 | Hazard ",
+  "classid": "310779759",
+  "price": 85,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298c9"
+  },
+  "id": 71,
+  "name_ru": "MAG-7 | Райский страж",
+  "name_en": "MAG-7 | Heaven Guard ",
+  "classid": "360453655",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ca"
+  },
+  "id": 72,
+  "name_ru": "MAG-7 | Объемные шестиугольники",
+  "name_en": "MAG-7 | Memento ",
+  "classid": "310777348",
+  "price": 32,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298cb"
+  },
+  "id": 73,
+  "name_ru": "MP7 | Анодированная синева",
+  "name_en": "MP7 | Anodized Navy ",
+  "classid": "310779279",
+  "price": 13,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298cc"
+  },
+  "id": 74,
+  "name_ru": "MP9 | Темный век",
+  "name_en": "MP9 | Dark Age ",
+  "classid": "519983269",
+  "price": 270,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298cd"
+  },
+  "id": 75,
+  "name_ru": "MP9 | Утечка отходов",
+  "name_en": "MP9 | Bioleak ",
+  "classid": "1703060822",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ce"
+  },
+  "id": 76,
+  "name_ru": "MP7 | Снежная мгла",
+  "name_en": "MP7 | Whiteout ",
+  "classid": "310778785",
+  "price": 82,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298cf"
+  },
+  "id": 77,
+  "name_ru": "MP7 | Броня",
+  "name_en": "MP7 | Armor Core ",
+  "classid": "937245046",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d0"
+  },
+  "id": 78,
+  "name_ru": "MP9 | Дротик",
+  "name_en": "MP9 | Dart ",
+  "classid": "638241008",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d1"
+  },
+  "id": 79,
+  "name_ru": "MP9 | Смертельный яд",
+  "name_en": "MP9 | Deadly Poison ",
+  "classid": "720276916",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d2"
+  },
+  "id": 80,
+  "name_ru": "MP7 | Полная остановка",
+  "name_en": "MP7 | Full Stop ",
+  "classid": "992167908",
+  "price": 54,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d3"
+  },
+  "id": 81,
+  "name_ru": "MP7 | Черепа",
+  "name_en": "MP7 | Skulls ",
+  "classid": "310777754",
+  "price": 49,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d4"
+  },
+  "id": 82,
+  "name_ru": "MP7 | Городская опасность",
+  "name_en": "MP7 | Urban Hazard ",
+  "classid": "520026202",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d5"
+  },
+  "id": 83,
+  "name_ru": "MP9 | Ящик Пандоры",
+  "name_en": "MP9 | Pandora's Box ",
+  "classid": "992190210",
+  "price": 397,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d6"
+  },
+  "id": 84,
+  "name_ru": "MP9 | Хот-род",
+  "name_en": "MP9 | Hot Rod ",
+  "classid": "310778169",
+  "price": 261,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d7"
+  },
+  "id": 85,
+  "name_ru": "MP9 | Закат",
+  "name_en": "MP9 | Setting Sun ",
+  "classid": "575558395",
+  "price": 23,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d8"
+  },
+  "id": 86,
+  "name_ru": "AK-47 | Элитное снаряжение",
+  "name_en": "AK-47 | Elite Build ",
+  "classid": "937243428",
+  "price": 31,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298d9"
+  },
+  "id": 87,
+  "name_ru": "Negev | Тра-та-та",
+  "name_en": "Negev | Bratatat ",
+  "classid": "527638624",
+  "price": 9,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298da"
+  },
+  "id": 88,
+  "name_ru": "Negev | Конфуз",
+  "name_en": "Negev | Dazzle ",
+  "classid": "1934415390",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298db"
+  },
+  "id": 89,
+  "name_ru": "Negev | Пустынная атака",
+  "name_en": "Negev | Desert-Strike ",
+  "classid": "520026696",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298dc"
+  },
+  "id": 90,
+  "name_ru": "Negev | Боец",
+  "name_en": "Negev | Man-o'-war ",
+  "classid": "937243353",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298dd"
+  },
+  "id": 91,
+  "name_ru": "Negev | Почва",
+  "name_en": "Negev | Terrain ",
+  "classid": "360451048",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298de"
+  },
+  "id": 92,
+  "name_ru": "Nova | Оранжевое пламя",
+  "name_en": "Nova | Blaze Orange ",
+  "classid": "310778229",
+  "price": 98,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298df"
+  },
+  "id": 93,
+  "name_ru": "Nova | Призрачный камуфляж",
+  "name_en": "Nova | Ghost Camo ",
+  "classid": "310776640",
+  "price": 15,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e0"
+  },
+  "id": 94,
+  "name_ru": "Nova | Современный охотник",
+  "name_en": "Nova | Modern Hunter ",
+  "classid": "310801279",
+  "price": 117,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e1"
+  },
+  "id": 95,
+  "name_ru": "Nova | Лесничий",
+  "name_en": "Nova | Ranger ",
+  "classid": "1011934463",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e2"
+  },
+  "id": 96,
+  "name_ru": "Nova | Буря",
+  "name_en": "Nova | Tempest ",
+  "classid": "310776860",
+  "price": 40,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e3"
+  },
+  "id": 97,
+  "name_ru": "P2000 | Кольчуга",
+  "name_en": "P2000 | Chainmail ",
+  "classid": "519984334",
+  "price": 275,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e4"
+  },
+  "id": 98,
+  "name_ru": "P2000 | Защитник империи",
+  "name_en": "P2000 | Imperial ",
+  "classid": "1440503460",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e5"
+  },
+  "id": 99,
+  "name_ru": "P2000 | Слоновая кость",
+  "name_en": "P2000 | Ivory ",
+  "classid": "520025768",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e6"
+  },
+  "id": 100,
+  "name_ru": "P2000 | Океанские мотивы",
+  "name_en": "P2000 | Oceanic ",
+  "classid": "1703060313",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e7"
+  },
+  "id": 101,
+  "name_ru": "P2000 | Пульс",
+  "name_en": "P2000 | Pulse ",
+  "classid": "506855399",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e8"
+  },
+  "id": 102,
+  "name_ru": "P2000 | Красные фрагменты",
+  "name_en": "P2000 | Red FragCam ",
+  "classid": "350458027",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298e9"
+  },
+  "id": 103,
+  "name_ru": "P2000 | Серебро",
+  "name_en": "P2000 | Silver ",
+  "classid": "310777320",
+  "price": 55,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ea"
+  },
+  "id": 104,
+  "name_ru": "P250 | Улей",
+  "name_en": "P250 | Hive ",
+  "classid": "310776931",
+  "price": 41,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298eb"
+  },
+  "id": 105,
+  "name_ru": "P250 | Современный охотник",
+  "name_en": "P250 | Modern Hunter ",
+  "classid": "310780615",
+  "price": 101,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ec"
+  },
+  "id": 106,
+  "name_ru": "P250 | Ржавая сталь",
+  "name_en": "P250 | Steel Disruption ",
+  "classid": "310776635",
+  "price": 16,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ed"
+  },
+  "id": 107,
+  "name_ru": "P250 | Валентность",
+  "name_en": "P250 | Valence ",
+  "classid": "937246119",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ee"
+  },
+  "id": 108,
+  "name_ru": "ПП-19 Бизон | Пыльник",
+  "name_en": "PP-Bizon | Rust Coat ",
+  "classid": "310778929",
+  "price": 97,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ef"
+  },
+  "id": 109,
+  "name_ru": "P250 | Снежная мгла",
+  "name_en": "P250 | Whiteout ",
+  "classid": "992161821",
+  "price": 72,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f0"
+  },
+  "id": 110,
+  "name_ru": "P90 | Элитное снаряжение",
+  "name_en": "P90 | Elite Build ",
+  "classid": "1011934321",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f1"
+  },
+  "id": 111,
+  "name_ru": "P90 | Арктическая сетка",
+  "name_en": "P90 | Glacier Mesh ",
+  "classid": "310777812",
+  "price": 54,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f2"
+  },
+  "id": 112,
+  "name_ru": "P90 | Мрак",
+  "name_en": "P90 | Grim ",
+  "classid": "1934413927",
+  "price": 12,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f3"
+  },
+  "id": 113,
+  "name_ru": "SCAR-20 | Грот",
+  "name_en": "SCAR-20 | Grotto ",
+  "classid": "720286242",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f4"
+  },
+  "id": 114,
+  "name_ru": "SG 553 | Атлас",
+  "name_en": "SG 553 | Atlas ",
+  "classid": "1703079353",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f5"
+  },
+  "id": 115,
+  "name_ru": "P90 | Модуль",
+  "name_en": "P90 | Module ",
+  "classid": "506853573",
+  "price": 23,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f6"
+  },
+  "id": 116,
+  "name_ru": "StatTrak™ ПП-19 Бизон | Знак воды",
+  "name_en": "StatTrak™ PP-Bizon | Water Sigil ",
+  "classid": "310839264",
+  "price": 43,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f7"
+  },
+  "id": 117,
+  "name_ru": "ПП-19 Бизон | Океанская глубина",
+  "name_en": "PP-Bizon | Photic Zone ",
+  "classid": "1560432027",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f8"
+  },
+  "id": 118,
+  "name_ru": "ПП-19 Бизон | Современный охотник",
+  "name_en": "PP-Bizon | Modern Hunter ",
+  "classid": "310786355",
+  "price": 103,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298f9"
+  },
+  "id": 119,
+  "name_ru": "ПП-19 Бизон | Синие полутона",
+  "name_en": "PP-Bizon | Cobalt Halftone ",
+  "classid": "310776522",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298fa"
+  },
+  "id": 120,
+  "name_ru": "ПП-19 Бизон | Латунь",
+  "name_en": "PP-Bizon | Brass ",
+  "classid": "310782279",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298fb"
+  },
+  "id": 121,
+  "name_ru": "P90 | Демонтаж",
+  "name_en": "P90 | Teardown ",
+  "classid": "310780372",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298fc"
+  },
+  "id": 122,
+  "name_ru": "SCAR-20 | Кровавая паутина",
+  "name_en": "SCAR-20 | Crimson Web ",
+  "classid": "310776622",
+  "price": 28,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298fd"
+  },
+  "id": 123,
+  "name_ru": "SCAR-20 | Зеленый морпех",
+  "name_en": "SCAR-20 | Green Marine ",
+  "classid": "1310001548",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298fe"
+  },
+  "id": 124,
+  "name_ru": "SCAR-20 | Эпидемия",
+  "name_en": "SCAR-20 | Outbreak ",
+  "classid": "1440502938",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46298ff"
+  },
+  "id": 125,
+  "name_ru": "SG 553 | Анодированная синева",
+  "name_en": "SG 553 | Anodized Navy ",
+  "classid": "310778865",
+  "price": 12,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629900"
+  },
+  "id": 126,
+  "name_ru": "Револьвер R8 | Кровавая паутина",
+  "name_en": "R8 Revolver | Crimson Web ",
+  "classid": "1440503929",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629901"
+  },
+  "id": 127,
+  "name_ru": "SG 553 | Дамасская сталь",
+  "name_en": "SG 553 | Damascus Steel ",
+  "classid": "310783772",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629902"
+  },
+  "id": 128,
+  "name_ru": "SG 553 | Ультрафиолет",
+  "name_en": "SG 553 | Ultraviolet ",
+  "classid": "310776663",
+  "price": 49,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629903"
+  },
+  "id": 129,
+  "name_ru": "SG 553 | Брызги волны",
+  "name_en": "SG 553 | Wave Spray ",
+  "classid": "310776515",
+  "price": 31,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629904"
+  },
+  "id": 130,
+  "name_ru": "SSG 08 | Пучина",
+  "name_en": "SSG 08 | Abyss ",
+  "classid": "520025865",
+  "price": 8,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629905"
+  },
+  "id": 131,
+  "name_ru": "SSG 08 | Кислотный градиент",
+  "name_en": "SSG 08 | Acid Fade ",
+  "classid": "310776737",
+  "price": 26,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629906"
+  },
+  "id": 132,
+  "name_ru": "SSG 08 | Темная вода",
+  "name_en": "SSG 08 | Dark Water ",
+  "classid": "527640221",
+  "price": 14,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629907"
+  },
+  "id": 133,
+  "name_ru": "SSG 08 | Объезд",
+  "name_en": "SSG 08 | Detour ",
+  "classid": "519984303",
+  "price": 120,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629908"
+  },
+  "id": 134,
+  "name_ru": "Sawed-Off | Оригами",
+  "name_en": "Sawed-Off | Origami ",
+  "classid": "937247050",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629909"
+  },
+  "id": 135,
+  "name_ru": "Sawed-Off | Полная остановка",
+  "name_en": "Sawed-Off | Full Stop ",
+  "classid": "310778159",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990a"
+  },
+  "id": 136,
+  "name_ru": "Sawed-Off | Первый класс",
+  "name_en": "Sawed-Off | First Class ",
+  "classid": "520007212",
+  "price": 177,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990b"
+  },
+  "id": 137,
+  "name_ru": "Sawed-Off | Медь",
+  "name_en": "Sawed-Off | Copper ",
+  "classid": "310796086",
+  "price": 273,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990c"
+  },
+  "id": 138,
+  "name_ru": "Sawed-Off | Янтарный градиент",
+  "name_en": "Sawed-Off | Amber Fade ",
+  "classid": "310776670",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990d"
+  },
+  "id": 139,
+  "name_ru": "SSG 08 | Когти",
+  "name_en": "SSG 08 | Slashed ",
+  "classid": "469440491",
+  "price": 12,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990e"
+  },
+  "id": 140,
+  "name_ru": "SSG 08 | Некромант",
+  "name_en": "SSG 08 | Necropos ",
+  "classid": "1560432554",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462990f"
+  },
+  "id": 141,
+  "name_ru": "Sawed-Off | Йорик",
+  "name_en": "Sawed-Off | Yorick ",
+  "classid": "1440506720",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629910"
+  },
+  "id": 142,
+  "name_ru": "Tec-9 | Синий титан",
+  "name_en": "Tec-9 | Blue Titanium ",
+  "classid": "310777293",
+  "price": 53,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629911"
+  },
+  "id": 143,
+  "name_ru": "Tec-9 | Латунь",
+  "name_en": "Tec-9 | Brass ",
+  "classid": "310778175",
+  "price": 23,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629912"
+  },
+  "id": 144,
+  "name_ru": "Tec-9 | Айзек",
+  "name_en": "Tec-9 | Isaac ",
+  "classid": "469443695",
+  "price": 21,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629913"
+  },
+  "id": 145,
+  "name_ru": "Tec-9 | Джамбия",
+  "name_en": "Tec-9 | Jambiya ",
+  "classid": "1560433715",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629914"
+  },
+  "id": 146,
+  "name_ru": "Tec-9 | Окостеневший",
+  "name_en": "Tec-9 | Ossified ",
+  "classid": "310777228",
+  "price": 40,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629915"
+  },
+  "id": 147,
+  "name_ru": "Tec-9 | Песчаная буря",
+  "name_en": "Tec-9 | Sandstorm ",
+  "classid": "360454763",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629916"
+  },
+  "id": 148,
+  "name_ru": "Tec-9 | Терраса",
+  "name_en": "Tec-9 | Terrace ",
+  "classid": "992107620",
+  "price": 158,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629917"
+  },
+  "id": 149,
+  "name_ru": "Tec-9 | Токсичность",
+  "name_en": "Tec-9 | Toxic ",
+  "classid": "575590588",
+  "price": 60,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629918"
+  },
+  "id": 150,
+  "name_ru": "UMP-45 | Пламя",
+  "name_en": "UMP-45 | Blaze ",
+  "classid": "310777860",
+  "price": 721,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629919"
+  },
+  "id": 151,
+  "name_ru": "UMP-45 | Груда костей",
+  "name_en": "UMP-45 | Bone Pile ",
+  "classid": "310776820",
+  "price": 36,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991a"
+  },
+  "id": 152,
+  "name_ru": "UMP-45 | Брифинг",
+  "name_en": "UMP-45 | Briefing ",
+  "classid": "1934414788",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991b"
+  },
+  "id": 153,
+  "name_ru": "UMP-45 | Капрал",
+  "name_en": "UMP-45 | Corporal ",
+  "classid": "360450323",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991c"
+  },
+  "id": 154,
+  "name_ru": "StatTrak™ UMP-45 | Заблуждение",
+  "name_en": "StatTrak™ UMP-45 | Delusion ",
+  "classid": "638240746",
+  "price": 44,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991d"
+  },
+  "id": 155,
+  "name_ru": "XM1014 | Скумбрия",
+  "name_en": "XM1014 | Scumbria ",
+  "classid": "1309998372",
+  "price": 4,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991e"
+  },
+  "id": 156,
+  "name_ru": "XM1014 | Поток",
+  "name_en": "XM1014 | Slipstream ",
+  "classid": "1934422811",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462991f"
+  },
+  "id": 157,
+  "name_ru": "XM1014 | Смешанный синий камуфляж",
+  "name_en": "XM1014 | VariCamo Blue ",
+  "classid": "519991331",
+  "price": 84,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629920"
+  },
+  "id": 158,
+  "name_ru": "UMP-45 | Лабиринт",
+  "name_en": "UMP-45 | Labyrinth ",
+  "classid": "520025874",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629921"
+  },
+  "id": 159,
+  "name_ru": "UMP-45 | Лабиринт минотавра",
+  "name_en": "UMP-45 | Minotaur's Labyrinth ",
+  "classid": "992128844",
+  "price": 359,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629922"
+  },
+  "id": 160,
+  "name_ru": "UMP-45 | Бунт",
+  "name_en": "UMP-45 | Riot ",
+  "classid": "1011934629",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629923"
+  },
+  "id": 161,
+  "name_ru": "USP-S | Кровавый тигр",
+  "name_en": "USP-S | Blood Tiger ",
+  "classid": "527637310",
+  "price": 36,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629924"
+  },
+  "id": 162,
+  "name_ru": "USP-S | Бизнес-класс",
+  "name_en": "USP-S | Business Class ",
+  "classid": "519985968",
+  "price": 188,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629925"
+  },
+  "id": 163,
+  "name_ru": "USP-S | Проводник",
+  "name_en": "USP-S | Lead Conduit ",
+  "classid": "1560431541",
+  "price": 12,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629926"
+  },
+  "id": 164,
+  "name_ru": "USP-S | Ночные операции",
+  "name_en": "USP-S | Night Ops ",
+  "classid": "310780496",
+  "price": 9,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629927"
+  },
+  "id": 165,
+  "name_ru": "M4A4 | Грифон",
+  "name_en": "M4A4 | Griffin ",
+  "classid": "638241450",
+  "price": 97,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629928"
+  },
+  "id": 166,
+  "name_ru": "AK-47 | Синий глянец",
+  "name_en": "AK-47 | Blue Laminate ",
+  "classid": "310777267",
+  "price": 168,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629929"
+  },
+  "id": 167,
+  "name_ru": "AK-47 | Первый класс",
+  "name_en": "AK-47 | First Class ",
+  "classid": "519989189",
+  "price": 563,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992a"
+  },
+  "id": 168,
+  "name_ru": "AUG | Закрученный",
+  "name_en": "AUG | Torque ",
+  "classid": "469438644",
+  "price": 34,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992b"
+  },
+  "id": 169,
+  "name_ru": "AWP | Пиксельный камуфляж «Розовый»",
+  "name_en": "AWP | Pink DDPAT ",
+  "classid": "519987130",
+  "price": 612,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992c"
+  },
+  "id": 170,
+  "name_ru": "AWP | Гадюка",
+  "name_en": "AWP | Pit Viper ",
+  "classid": "310779688",
+  "price": 47,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992d"
+  },
+  "id": 171,
+  "name_ru": "AWP | Бог червей",
+  "name_en": "AWP | Worm God ",
+  "classid": "937244168",
+  "price": 53,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992e"
+  },
+  "id": 172,
+  "name_ru": "CZ75-Auto | Чаша",
+  "name_en": "CZ75-Auto | Chalice ",
+  "classid": "519991659",
+  "price": 1525,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462992f"
+  },
+  "id": 173,
+  "name_ru": "CZ75-Auto | Поул-позиция",
+  "name_en": "CZ75-Auto | Pole Position ",
+  "classid": "937251514",
+  "price": 14,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629930"
+  },
+  "id": 174,
+  "name_ru": "CZ75-Auto | Красный ястреб",
+  "name_en": "CZ75-Auto | Red Astor ",
+  "classid": "1703088537",
+  "price": 19,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629931"
+  },
+  "id": 175,
+  "name_ru": "CZ75-Auto | Тигр",
+  "name_en": "CZ75-Auto | Tigris ",
+  "classid": "520026483",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629932"
+  },
+  "id": 176,
+  "name_ru": "CZ75-Auto | Листовая сталь",
+  "name_en": "CZ75-Auto | Tread Plate ",
+  "classid": "350492619",
+  "price": 29,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629933"
+  },
+  "id": 177,
+  "name_ru": "Desert Eagle | Пламя",
+  "name_en": "Desert Eagle | Blaze ",
+  "classid": "310781367",
+  "price": 3317,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629934"
+  },
+  "id": 178,
+  "name_ru": "Desert Eagle | Кровавая паутина",
+  "name_en": "Desert Eagle | Crimson Web ",
+  "classid": "527642044",
+  "price": 68,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629935"
+  },
+  "id": 179,
+  "name_ru": "Desert Eagle | Директива",
+  "name_en": "Desert Eagle | Directive ",
+  "classid": "1934440236",
+  "price": 23,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629936"
+  },
+  "id": 180,
+  "name_ru": "Desert Eagle | Пищаль",
+  "name_en": "Desert Eagle | Hand Cannon ",
+  "classid": "519986748",
+  "price": 1480,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629937"
+  },
+  "id": 181,
+  "name_ru": "StatTrak™ Desert Eagle | Наследие",
+  "name_en": "StatTrak™ Desert Eagle | Heirloom ",
+  "classid": "350508938",
+  "price": 289,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629938"
+  },
+  "id": 182,
+  "name_ru": "Desert Eagle | Нага",
+  "name_en": "Desert Eagle | Naga ",
+  "classid": "720291085",
+  "price": 25,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629939"
+  },
+  "id": 183,
+  "name_ru": "Desert Eagle | Пилот",
+  "name_en": "Desert Eagle | Pilot ",
+  "classid": "519986403",
+  "price": 618,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993a"
+  },
+  "id": 184,
+  "name_ru": "Desert Eagle | Буря на закате 壱",
+  "name_en": "Desert Eagle | Sunset Storm 壱 ",
+  "classid": "992188553",
+  "price": 386,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993b"
+  },
+  "id": 185,
+  "name_ru": "Desert Eagle | Буря на закате 弐",
+  "name_en": "Desert Eagle | Sunset Storm 弐 ",
+  "classid": "992204697",
+  "price": 409,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993c"
+  },
+  "id": 186,
+  "name_ru": "Dual Berettas | Синий кварц",
+  "name_en": "Dual Berettas | Cobalt Quartz ",
+  "classid": "310777518",
+  "price": 12,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993d"
+  },
+  "id": 187,
+  "name_ru": "Dual Berettas | Подрыв",
+  "name_en": "Dual Berettas | Demolition ",
+  "classid": "310777137",
+  "price": 64,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993e"
+  },
+  "id": 188,
+  "name_ru": "Dual Berettas | Дуэлист",
+  "name_en": "Dual Berettas | Duelist ",
+  "classid": "992171063",
+  "price": 452,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462993f"
+  },
+  "id": 189,
+  "name_ru": "Dual Berettas | Гемоглобин",
+  "name_en": "Dual Berettas | Hemoglobin ",
+  "classid": "310776743",
+  "price": 54,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629940"
+  },
+  "id": 190,
+  "name_ru": "Dual Berettas | Причал",
+  "name_en": "Dual Berettas | Marina ",
+  "classid": "310777265",
+  "price": 51,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629941"
+  },
+  "id": 191,
+  "name_ru": "Dual Berettas | Городской шок",
+  "name_en": "Dual Berettas | Urban Shock ",
+  "classid": "720290996",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629942"
+  },
+  "id": 192,
+  "name_ru": "FAMAS | Нейронная сеть",
+  "name_en": "FAMAS | Neural Net ",
+  "classid": "1011934438",
+  "price": 16,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629943"
+  },
+  "id": 193,
+  "name_ru": "FAMAS | Пульс",
+  "name_en": "FAMAS | Pulse ",
+  "classid": "310776745",
+  "price": 62,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629944"
+  },
+  "id": 194,
+  "name_ru": "FAMAS | Сержант",
+  "name_en": "FAMAS | Sergeant ",
+  "classid": "360461073",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629945"
+  },
+  "id": 195,
+  "name_ru": "FAMAS | Истребитель",
+  "name_en": "FAMAS | Spitfire ",
+  "classid": "310787054",
+  "price": 111,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629946"
+  },
+  "id": 196,
+  "name_ru": "FAMAS | Стикс",
+  "name_en": "FAMAS | Styx ",
+  "classid": "575627796",
+  "price": 37,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629947"
+  },
+  "id": 197,
+  "name_ru": "FAMAS | Валентность",
+  "name_en": "FAMAS | Valence ",
+  "classid": "1560436611",
+  "price": 32,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629948"
+  },
+  "id": 198,
+  "name_ru": "Five-SeveN | Поверхностная закалка",
+  "name_en": "Five-SeveN | Case Hardened ",
+  "classid": "310776730",
+  "price": 156,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629949"
+  },
+  "id": 199,
+  "name_ru": "Five-SeveN | Медная галактика",
+  "name_en": "Five-SeveN | Copper Galaxy ",
+  "classid": "350513459",
+  "price": 54,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994a"
+  },
+  "id": 200,
+  "name_ru": "Five-SeveN | Неоновое кимоно",
+  "name_en": "Five-SeveN | Neon Kimono ",
+  "classid": "992102276",
+  "price": 316,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994b"
+  },
+  "id": 201,
+  "name_ru": "Five-SeveN | Дань прошлому",
+  "name_en": "Five-SeveN | Retrobution ",
+  "classid": "1440509660",
+  "price": 30,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994c"
+  },
+  "id": 202,
+  "name_ru": "Five-SeveN | Триумвират",
+  "name_en": "Five-SeveN | Triumvirate ",
+  "classid": "1560431672",
+  "price": 21,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994d"
+  },
+  "id": 203,
+  "name_ru": "Galil AR | Цербер",
+  "name_en": "Galil AR | Cerberus ",
+  "classid": "575567095",
+  "price": 80,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994e"
+  },
+  "id": 204,
+  "name_ru": "G3SG1 | Хронос",
+  "name_en": "G3SG1 | Chronos ",
+  "classid": "992183084",
+  "price": 832,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462994f"
+  },
+  "id": 205,
+  "name_ru": "Galil AR | Перестрелка",
+  "name_en": "Galil AR | Firefight ",
+  "classid": "1703084157",
+  "price": 19,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629950"
+  },
+  "id": 206,
+  "name_ru": "Galil AR | Пиксельный камуфляж «Ржавчина»",
+  "name_en": "Galil AR | Orange DDPAT ",
+  "classid": "310776829",
+  "price": 130,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629951"
+  },
+  "id": 207,
+  "name_ru": "Galil AR | Невозмутимость",
+  "name_en": "Galil AR | Stone Cold ",
+  "classid": "1310030033",
+  "price": 29,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629952"
+  },
+  "id": 208,
+  "name_ru": "Glock-18 | Латунь",
+  "name_en": "Glock-18 | Brass ",
+  "classid": "310780932",
+  "price": 92,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629953"
+  },
+  "id": 209,
+  "name_ru": "StatTrak™ Glock-18 | Татуировка дракона",
+  "name_en": "StatTrak™ Glock-18 | Dragon Tattoo ",
+  "classid": "310809079",
+  "price": 1269,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629954"
+  },
+  "id": 210,
+  "name_ru": "Glock-18 | Градиент",
+  "name_en": "Glock-18 | Fade ",
+  "classid": "374132586",
+  "price": 14300,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629955"
+  },
+  "id": 211,
+  "name_ru": "Glock-18 | Жернов",
+  "name_en": "Glock-18 | Grinder ",
+  "classid": "638243697",
+  "price": 37,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629956"
+  },
+  "id": 212,
+  "name_ru": "Glock-18 | Королевский легион",
+  "name_en": "Glock-18 | Royal Legion ",
+  "classid": "1560432555",
+  "price": 22,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629957"
+  },
+  "id": 213,
+  "name_ru": "StatTrak™ Glock-18 | Ржавая сталь",
+  "name_en": "StatTrak™ Glock-18 | Steel Disruption ",
+  "classid": "527681873",
+  "price": 166,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629958"
+  },
+  "id": 214,
+  "name_ru": "Glock-18 | Ласка",
+  "name_en": "Glock-18 | Weasel ",
+  "classid": "1934416996",
+  "price": 44,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629959"
+  },
+  "id": 215,
+  "name_ru": "M249 | Космический воитель",
+  "name_en": "M249 | Nebula Crusader ",
+  "classid": "1310030865",
+  "price": 28,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995a"
+  },
+  "id": 216,
+  "name_ru": "M4A1-S | Василиск",
+  "name_en": "M4A1-S | Basilisk ",
+  "classid": "638243975",
+  "price": 82,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995b"
+  },
+  "id": 217,
+  "name_ru": "M4A1-S | Чистая вода",
+  "name_en": "M4A1-S | Bright Water ",
+  "classid": "549061706",
+  "price": 260,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995c"
+  },
+  "id": 218,
+  "name_ru": "StatTrak™ M4A1-S | Темная вода",
+  "name_en": "StatTrak™ M4A1-S | Dark Water ",
+  "classid": "310841291",
+  "price": 833,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995d"
+  },
+  "id": 219,
+  "name_ru": "M4A1-S | Падение Икара",
+  "name_en": "M4A1-S | Icarus Fell ",
+  "classid": "992317711",
+  "price": 3347,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995e"
+  },
+  "id": 220,
+  "name_ru": "M4A1-S | Нитро",
+  "name_en": "M4A1-S | Nitro ",
+  "classid": "310781176",
+  "price": 67,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462995f"
+  },
+  "id": 221,
+  "name_ru": "M4A4 | Рассвет",
+  "name_en": "M4A4 | Daybreak ",
+  "classid": "992131676",
+  "price": 393,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629960"
+  },
+  "id": 222,
+  "name_ru": "MAC-10 | Малахит",
+  "name_en": "MAC-10 | Malachite ",
+  "classid": "720292679",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629961"
+  },
+  "id": 223,
+  "name_ru": "MP7 | Океанская пена",
+  "name_en": "MP7 | Ocean Foam ",
+  "classid": "527644929",
+  "price": 63,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629962"
+  },
+  "id": 224,
+  "name_ru": "Negev | Погрузчик",
+  "name_en": "Negev | Power Loader ",
+  "classid": "1440515303",
+  "price": 30,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629963"
+  },
+  "id": 225,
+  "name_ru": "P250 | Ядерная угроза",
+  "name_en": "P250 | Nuclear Threat ",
+  "classid": "310778177",
+  "price": 189,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629964"
+  },
+  "id": 226,
+  "name_ru": "ПП-19 Бизон | Синяя струя",
+  "name_en": "PP-Bizon | Blue Streak ",
+  "classid": "527638943",
+  "price": 21,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629965"
+  },
+  "id": 227,
+  "name_ru": "SG 553 | Дикая моль",
+  "name_en": "SG 553 | Tiger Moth ",
+  "classid": "1440505944",
+  "price": 32,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629966"
+  },
+  "id": 228,
+  "name_ru": "Tec-9 | Ядерная угроза",
+  "name_en": "Tec-9 | Nuclear Threat ",
+  "classid": "310781070",
+  "price": 480,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629967"
+  },
+  "id": 229,
+  "name_ru": "M4A4 | Злобный дайме",
+  "name_en": "M4A4 | Evil Daimyo ",
+  "classid": "1011935370",
+  "price": 76,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629968"
+  },
+  "id": 230,
+  "name_ru": "MAC-10 | Клочья",
+  "name_en": "MAC-10 | Tatter ",
+  "classid": "506868310",
+  "price": 33,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629969"
+  },
+  "id": 231,
+  "name_ru": "MP7 | Особая доставка",
+  "name_en": "MP7 | Special Delivery ",
+  "classid": "1309998369",
+  "price": 29,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996a"
+  },
+  "id": 232,
+  "name_ru": "Nova | Графит",
+  "name_en": "Nova | Graphite ",
+  "classid": "310776552",
+  "price": 51,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996b"
+  },
+  "id": 233,
+  "name_ru": "P250 | Пятно",
+  "name_en": "P250 | Splash ",
+  "classid": "310776749",
+  "price": 191,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996c"
+  },
+  "id": 234,
+  "name_ru": "ПП-19 Бизон | Топливный стержень",
+  "name_en": "PP-Bizon | Fuel Rod ",
+  "classid": "1440510363",
+  "price": 31,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996d"
+  },
+  "id": 235,
+  "name_ru": "SG 553 | Триарх",
+  "name_en": "SG 553 | Triarch ",
+  "classid": "1934443227",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996e"
+  },
+  "id": 236,
+  "name_ru": "Tec-9 | Возвращение",
+  "name_en": "Tec-9 | Re-Entry ",
+  "classid": "1703077135",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462996f"
+  },
+  "id": 237,
+  "name_ru": "StatTrak™ USP-S | Камуфляж",
+  "name_en": "StatTrak™ USP-S | Overgrowth ",
+  "classid": "310846232",
+  "price": 670,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629970"
+  },
+  "id": 238,
+  "name_ru": "AK-47 | Изумрудные завитки",
+  "name_en": "AK-47 | Emerald Pinstripe ",
+  "classid": "469457057",
+  "price": 70,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629971"
+  },
+  "id": 239,
+  "name_ru": "MAG-7 | Бульдозер",
+  "name_en": "MAG-7 | Bulldozer ",
+  "classid": "310779652",
+  "price": 22,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629972"
+  },
+  "id": 240,
+  "name_ru": "MP9 | Бульдозер",
+  "name_en": "MP9 | Bulldozer ",
+  "classid": "310780773",
+  "price": 226,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629973"
+  },
+  "id": 241,
+  "name_ru": "Nova | Карп кои",
+  "name_en": "Nova | Koi ",
+  "classid": "520026287",
+  "price": 19,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629974"
+  },
+  "id": 242,
+  "name_ru": "P250 | Сверхновая",
+  "name_en": "P250 | Supernova ",
+  "classid": "520027398",
+  "price": 19,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629975"
+  },
+  "id": 243,
+  "name_ru": "ПП-19 Бизон | Осирис",
+  "name_en": "PP-Bizon | Osiris ",
+  "classid": "520028714",
+  "price": 16,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629976"
+  },
+  "id": 244,
+  "name_ru": "SSG 08 | Призрачный фанатик",
+  "name_en": "SSG 08 | Ghost Crusader ",
+  "classid": "1703077986",
+  "price": 20,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629977"
+  },
+  "id": 245,
+  "name_ru": "Tec-9 | Красный кварц",
+  "name_en": "Tec-9 | Red Quartz ",
+  "classid": "310790881",
+  "price": 12,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629978"
+  },
+  "id": 246,
+  "name_ru": "USP-S | Следы асфальта",
+  "name_en": "USP-S | Road Rash ",
+  "classid": "519997046",
+  "price": 401,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629979"
+  },
+  "id": 247,
+  "name_ru": "M4A4 | Современный охотник",
+  "name_en": "M4A4 | Modern Hunter ",
+  "classid": "310781681",
+  "price": 284,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997a"
+  },
+  "id": 248,
+  "name_ru": "MAG-7 | Жар",
+  "name_en": "MAG-7 | Heat ",
+  "classid": "937254203",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997b"
+  },
+  "id": 249,
+  "name_ru": "MP9 | Гипноз",
+  "name_en": "MP9 | Hypnotic ",
+  "classid": "310778942",
+  "price": 67,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997c"
+  },
+  "id": 250,
+  "name_ru": "Nova | Восходящий череп",
+  "name_en": "Nova | Rising Skull ",
+  "classid": "310776832",
+  "price": 54,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997d"
+  },
+  "id": 251,
+  "name_ru": "P250 | Охотник",
+  "name_en": "P250 | Wingshot ",
+  "classid": "1309994951",
+  "price": 31,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997e"
+  },
+  "id": 252,
+  "name_ru": "SCAR-20 | Изумруд",
+  "name_en": "SCAR-20 | Emerald ",
+  "classid": "310776501",
+  "price": 204,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462997f"
+  },
+  "id": 253,
+  "name_ru": "Sawed-Off | Разбойник",
+  "name_en": "Sawed-Off | Highwayman ",
+  "classid": "638241200",
+  "price": 18,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629980"
+  },
+  "id": 254,
+  "name_ru": "Tec-9 | Частица титана",
+  "name_en": "Tec-9 | Titanium Bit ",
+  "classid": "350467130",
+  "price": 34,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629981"
+  },
+  "id": 255,
+  "name_ru": "XM1014 | Черный галстук",
+  "name_en": "XM1014 | Black Tie ",
+  "classid": "1703261733",
+  "price": 19,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629982"
+  },
+  "id": 256,
+  "name_ru": "M4A4 | Зірка",
+  "name_en": "M4A4 | Zirka",
+  "classid": "310776637",
+  "price": 239,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629983"
+  },
+  "id": 257,
+  "name_ru": "MAG-7 | Петроглиф",
+  "name_en": "MAG-7 | Petroglyph ",
+  "classid": "1934413928",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629984"
+  },
+  "id": 258,
+  "name_ru": "MP9 | Железная роза",
+  "name_en": "MP9 | Rose Iron ",
+  "classid": "310776843",
+  "price": 73,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629985"
+  },
+  "id": 259,
+  "name_ru": "P2000 | Янтарный градиент",
+  "name_en": "P2000 | Amber Fade ",
+  "classid": "310776826",
+  "price": 21,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629986"
+  },
+  "id": 260,
+  "name_ru": "P90 | Слепое пятно",
+  "name_en": "P90 | Blind Spot ",
+  "classid": "310777045",
+  "price": 50,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629987"
+  },
+  "id": 261,
+  "name_ru": "StatTrak™ SCAR-20 | Генератор",
+  "name_en": "StatTrak™ SCAR-20 | Powercore ",
+  "classid": "1935553172",
+  "price": 41,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629988"
+  },
+  "id": 262,
+  "name_ru": "Sawed-Off | Пиксельный камуфляж «Ржавчина»",
+  "name_en": "Sawed-Off | Orange DDPAT ",
+  "classid": "310777207",
+  "price": 131,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629989"
+  },
+  "id": 263,
+  "name_ru": "UMP-45 | Гран-при",
+  "name_en": "UMP-45 | Grand Prix ",
+  "classid": "937245221",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998a"
+  },
+  "id": 264,
+  "name_ru": "XM1014 | Райский страж",
+  "name_en": "XM1014 | Heaven Guard ",
+  "classid": "469442485",
+  "price": 32,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998b"
+  },
+  "id": 265,
+  "name_ru": "XM1014 | Горелка Теклу",
+  "name_en": "XM1014 | Teclu Burner ",
+  "classid": "1440512684",
+  "price": 31,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998c"
+  },
+  "id": 266,
+  "name_ru": "MAC-10 | Гравировка",
+  "name_en": "MAC-10 | Graven ",
+  "classid": "310776795",
+  "price": 211,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998d"
+  },
+  "id": 267,
+  "name_ru": "MAG-7 | Преторианец",
+  "name_en": "MAG-7 | Praetorian ",
+  "classid": "1560437902",
+  "price": 23,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998e"
+  },
+  "id": 268,
+  "name_ru": "MP9 | Рубиновый ядовитый дротик",
+  "name_en": "MP9 | Ruby Poison Dart ",
+  "classid": "1011934619",
+  "price": 16,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462998f"
+  },
+  "id": 269,
+  "name_ru": "P2000 | Пистолет",
+  "name_en": "P2000 | Handgun ",
+  "classid": "1011935012",
+  "price": 15,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629990"
+  },
+  "id": 270,
+  "name_ru": "P90 | Вирус",
+  "name_en": "P90 | Virus ",
+  "classid": "527638387",
+  "price": 21,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629991"
+  },
+  "id": 271,
+  "name_ru": "SG 553 | Бульдозер",
+  "name_en": "SG 553 | Bulldozer ",
+  "classid": "992119265",
+  "price": 413,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629992"
+  },
+  "id": 272,
+  "name_ru": "MAC-10 | Жар",
+  "name_en": "MAC-10 | Heat ",
+  "classid": "360458273",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629993"
+  },
+  "id": 273,
+  "name_ru": "MP7 | Чертята",
+  "name_en": "MP7 | Impire ",
+  "classid": "1560445121",
+  "price": 23,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629994"
+  },
+  "id": 274,
+  "name_ru": "StatTrak™ Negev | Крикун",
+  "name_en": "StatTrak™ Negev | Loudmouth ",
+  "classid": "1011952495",
+  "price": 43,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629995"
+  },
+  "id": 275,
+  "name_ru": "P2000 | Скорпион",
+  "name_en": "P2000 | Scorpion ",
+  "classid": "310779716",
+  "price": 62,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629996"
+  },
+  "id": 276,
+  "name_ru": "ПП-19 Бизон | Антиквариат",
+  "name_en": "PP-Bizon | Antique ",
+  "classid": "469449111",
+  "price": 34,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629997"
+  },
+  "id": 277,
+  "name_ru": "SG 553 | Пульс",
+  "name_en": "SG 553 | Pulse ",
+  "classid": "360465952",
+  "price": 25,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629998"
+  },
+  "id": 278,
+  "name_ru": "Sawed-Off | Безмятежность",
+  "name_en": "Sawed-Off | Serenity ",
+  "classid": "720303023",
+  "price": 24,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629999"
+  },
+  "id": 279,
+  "name_ru": "Tec-9 | Лавина",
+  "name_en": "Tec-9 | Avalanche ",
+  "classid": "1440512442",
+  "price": 34,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999a"
+  },
+  "id": 280,
+  "name_ru": "USP-S | Темная вода",
+  "name_en": "USP-S | Dark Water ",
+  "classid": "310776847",
+  "price": 344,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999b"
+  },
+  "id": 281,
+  "name_ru": "USP-S | Страж",
+  "name_en": "USP-S | Guardian ",
+  "classid": "360466315",
+  "price": 45,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999c"
+  },
+  "id": 282,
+  "name_ru": "M4A1-S | Страж",
+  "name_en": "M4A1-S | Guardian ",
+  "classid": "310777000",
+  "price": 293,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999d"
+  },
+  "id": 283,
+  "name_ru": "AK-47 | Красная линия",
+  "name_en": "AK-47 | Redline ",
+  "classid": "360467259",
+  "price": 244,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999e"
+  },
+  "id": 284,
+  "name_ru": "AWP | Элитное снаряжение",
+  "name_en": "AWP | Elite Build ",
+  "classid": "1560433642",
+  "price": 205,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a462999f"
+  },
+  "id": 285,
+  "name_ru": "Desert Eagle | Гипноз",
+  "name_en": "Desert Eagle | Hypnotic ",
+  "classid": "310776810",
+  "price": 531,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a0"
+  },
+  "id": 286,
+  "name_ru": "G3SG1 | Палач",
+  "name_en": "G3SG1 | The Executioner ",
+  "classid": "1440531184",
+  "price": 65,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a1"
+  },
+  "id": 287,
+  "name_ru": "M4A1-S | Рыцарь",
+  "name_en": "M4A1-S | Knight ",
+  "classid": "519999279",
+  "price": 13199,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a2"
+  },
+  "id": 288,
+  "name_ru": "Nova | Расцветающая ветка",
+  "name_en": "Nova | Bloomstick ",
+  "classid": "527684903",
+  "price": 86,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a3"
+  },
+  "id": 289,
+  "name_ru": "P250 | Роспись",
+  "name_en": "P250 | Mehndi ",
+  "classid": "310779277",
+  "price": 184,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a4"
+  },
+  "id": 290,
+  "name_ru": "SCAR-20 | Кардио",
+  "name_en": "SCAR-20 | Cardiac ",
+  "classid": "638243033",
+  "price": 100,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a5"
+  },
+  "id": 291,
+  "name_ru": "AK-47 | Картель",
+  "name_en": "AK-47 | Cartel ",
+  "classid": "720320344",
+  "price": 169,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a6"
+  },
+  "id": 292,
+  "name_ru": "AUG | Бенгальский тигр",
+  "name_en": "AUG | Bengal Tiger ",
+  "classid": "527657654",
+  "price": 87,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a7"
+  },
+  "id": 293,
+  "name_ru": "AWP | Графит",
+  "name_en": "AWP | Graphite ",
+  "classid": "310777843",
+  "price": 2161,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a8"
+  },
+  "id": 294,
+  "name_ru": "Desert Eagle | Дракон-предводитель",
+  "name_en": "Desert Eagle | Kumicho Dragon ",
+  "classid": "1560432042",
+  "price": 192,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299a9"
+  },
+  "id": 295,
+  "name_ru": "Galil AR | Эко",
+  "name_en": "Galil AR | Eco ",
+  "classid": "937248432",
+  "price": 65,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299aa"
+  },
+  "id": 296,
+  "name_ru": "M4A1-S | Шедевр",
+  "name_en": "M4A1-S | Master Piece ",
+  "classid": "519997076",
+  "price": 1096,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ab"
+  },
+  "id": 297,
+  "name_ru": "Nova | Скоростной зверь",
+  "name_en": "Nova | Hyper Beast ",
+  "classid": "1560434561",
+  "price": 116,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ac"
+  },
+  "id": 298,
+  "name_ru": "P250 | Покойник",
+  "name_en": "P250 | Muertos ",
+  "classid": "720303488",
+  "price": 113,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ad"
+  },
+  "id": 299,
+  "name_ru": "USP-S | Кайман",
+  "name_en": "USP-S | Caiman ",
+  "classid": "506857787",
+  "price": 205,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ae"
+  },
+  "id": 300,
+  "name_ru": "SCAR-20 | Сайрекс",
+  "name_en": "SCAR-20 | Cyrex ",
+  "classid": "469458040",
+  "price": 155,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299af"
+  },
+  "id": 301,
+  "name_ru": "AK-47 | Снежный вихрь",
+  "name_en": "AK-47 | Frontside Misty ",
+  "classid": "1312464046",
+  "price": 408,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b0"
+  },
+  "id": 302,
+  "name_ru": "P2000 | Кортисейра",
+  "name_en": "P2000 | Corticera ",
+  "classid": "527646098",
+  "price": 86,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b1"
+  },
+  "id": 303,
+  "name_ru": "P250 | Цвета прибоя",
+  "name_en": "P250 | Undertow ",
+  "classid": "350506083",
+  "price": 180,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b2"
+  },
+  "id": 304,
+  "name_ru": "SCAR-20 | Пятна от краски",
+  "name_en": "SCAR-20 | Splash Jam ",
+  "classid": "310781061",
+  "price": 82,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b3"
+  },
+  "id": 305,
+  "name_ru": "USP-S | Орион",
+  "name_en": "USP-S | Orion ",
+  "classid": "469467523",
+  "price": 509,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b4"
+  },
+  "id": 306,
+  "name_ru": "AUG | Скорая стая",
+  "name_en": "AUG | Fleet Flock ",
+  "classid": "1704328431",
+  "price": 73,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b5"
+  },
+  "id": 307,
+  "name_ru": "AWP | Красная линия",
+  "name_en": "AWP | Redline ",
+  "classid": "310776954",
+  "price": 641,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b6"
+  },
+  "id": 308,
+  "name_ru": "FAMAS | Остаточное изображение",
+  "name_en": "FAMAS | Afterimage ",
+  "classid": "310783079",
+  "price": 112,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b7"
+  },
+  "id": 309,
+  "name_ru": "Glock-18 | Сумеречная галактика",
+  "name_en": "Glock-18 | Twilight Galaxy ",
+  "classid": "992103799",
+  "price": 595,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b8"
+  },
+  "id": 310,
+  "name_ru": "AK-47 | Гидропоника",
+  "name_en": "AK-47 | Hydroponic ",
+  "classid": "992220845",
+  "price": 1188,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299b9"
+  },
+  "id": 311,
+  "name_ru": "AUG | Сид Мид",
+  "name_en": "AUG | Syd Mead ",
+  "classid": "1934452168",
+  "price": 99,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ba"
+  },
+  "id": 312,
+  "name_ru": "CZ75-Auto | Новая фуксия",
+  "name_en": "CZ75-Auto | The Fuschia Is Now ",
+  "classid": "350506412",
+  "price": 104,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299bb"
+  },
+  "id": 313,
+  "name_ru": "FAMAS | Джинн",
+  "name_en": "FAMAS | Djinn ",
+  "classid": "937277117",
+  "price": 65,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299bc"
+  },
+  "id": 314,
+  "name_ru": "Glock-18 | Дух воды",
+  "name_en": "Glock-18 | Water Elemental ",
+  "classid": "520026577",
+  "price": 148,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299bd"
+  },
+  "id": 315,
+  "name_ru": "M4A4 | 龍王 (Король драконов)",
+  "name_en": "M4A4 | 龍王  ",
+  "classid": "720318454",
+  "price": 0,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299be"
+  },
+  "id": 316,
+  "name_ru": "P2000 | Океанская пена",
+  "name_en": "P2000 | Ocean Foam ",
+  "classid": "310777844",
+  "price": 1542,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299bf"
+  },
+  "id": 317,
+  "name_ru": "P90 | Хладнокровный",
+  "name_en": "P90 | Cold Blooded ",
+  "classid": "310777047",
+  "price": 246,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c0"
+  },
+  "id": 318,
+  "name_ru": "SG 553 | Сайрекс",
+  "name_en": "SG 553 | Cyrex ",
+  "classid": "1011935682",
+  "price": 110,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c1"
+  },
+  "id": 319,
+  "name_ru": "USP-S | Сыворотка",
+  "name_en": "USP-S | Serum ",
+  "classid": "310776504",
+  "price": 332,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c2"
+  },
+  "id": 320,
+  "name_ru": "XM1014 | Спокойствие",
+  "name_en": "XM1014 | Tranquility ",
+  "classid": "638243565",
+  "price": 110,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c3"
+  },
+  "id": 321,
+  "name_ru": "AK-47 | Путешественник",
+  "name_en": "AK-47 | Jet Set ",
+  "classid": "519992253",
+  "price": 1469,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c4"
+  },
+  "id": 322,
+  "name_ru": "AWP | БАХ",
+  "name_en": "AWP | BOOM ",
+  "classid": "310776497",
+  "price": 1105,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c5"
+  },
+  "id": 323,
+  "name_ru": "CZ75-Auto | Желтый жакет",
+  "name_en": "CZ75-Auto | Yellow Jacket ",
+  "classid": "1011935025",
+  "price": 111,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c6"
+  },
+  "id": 324,
+  "name_ru": "Five-SeveN | Птичьи игры",
+  "name_en": "Five-SeveN | Fowl Play ",
+  "classid": "520029856",
+  "price": 66,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c7"
+  },
+  "id": 325,
+  "name_ru": "M4A1-S | Атомный сплав",
+  "name_en": "M4A1-S | Atomic Alloy ",
+  "classid": "469444831",
+  "price": 175,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c8"
+  },
+  "id": 326,
+  "name_ru": "StatTrak™ MP7 | Заклятый враг",
+  "name_en": "StatTrak™ MP7 | Nemesis ",
+  "classid": "1011936233",
+  "price": 438,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299c9"
+  },
+  "id": 327,
+  "name_ru": "P90 | Изумрудный дракон",
+  "name_en": "P90 | Emerald Dragon ",
+  "classid": "310776524",
+  "price": 943,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ca"
+  },
+  "id": 328,
+  "name_ru": "SSG 08 | Большая пушка",
+  "name_en": "SSG 08 | Big Iron ",
+  "classid": "1310035166",
+  "price": 128,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299cb"
+  },
+  "id": 329,
+  "name_ru": "Tec-9 | Топливный инжектор",
+  "name_en": "Tec-9 | Fuel Injector ",
+  "classid": "1934438107",
+  "price": 156,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299cc"
+  },
+  "id": 330,
+  "name_ru": "P90 | Резной приклад",
+  "name_en": "P90 | Shapewood ",
+  "classid": "1440616396",
+  "price": 66,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299cd"
+  },
+  "id": 331,
+  "name_ru": "P250 | Азимов",
+  "name_en": "P250 | Asiimov ",
+  "classid": "1703410694",
+  "price": 118,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ce"
+  },
+  "id": 332,
+  "name_ru": "P250 | Картель",
+  "name_en": "P250 | Cartel ",
+  "classid": "638243938",
+  "price": 114,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299cf"
+  },
+  "id": 333,
+  "name_ru": "MP9 | Воздушный шлюз",
+  "name_en": "MP9 | Airlock ",
+  "classid": "1934416384",
+  "price": 100,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d0"
+  },
+  "id": 334,
+  "name_ru": "Nova | Антиквариат",
+  "name_en": "Nova | Antique ",
+  "classid": "360480382",
+  "price": 155,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d1"
+  },
+  "id": 335,
+  "name_ru": "P250 | Франклин",
+  "name_en": "P250 | Franklin ",
+  "classid": "469479341",
+  "price": 29,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d2"
+  },
+  "id": 336,
+  "name_ru": "P90 | Треугольник",
+  "name_en": "P90 | Trigon ",
+  "classid": "360473095",
+  "price": 125,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d3"
+  },
+  "id": 337,
+  "name_ru": "UMP-45 | Первобытный саблезуб",
+  "name_en": "UMP-45 | Primal Saber ",
+  "classid": "1703565993",
+  "price": 208,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d4"
+  },
+  "id": 338,
+  "name_ru": "AK-47 | Буйство красок",
+  "name_en": "AK-47 | Point Disarray ",
+  "classid": "1440505236",
+  "price": 478,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d5"
+  },
+  "id": 339,
+  "name_ru": "Five-SeveN | Обезьянье дело",
+  "name_en": "Five-SeveN | Monkey Business ",
+  "classid": "937248672",
+  "price": 68,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d6"
+  },
+  "id": 340,
+  "name_ru": "G3SG1 | Поток",
+  "name_en": "G3SG1 | Flux ",
+  "classid": "1310009716",
+  "price": 125,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d7"
+  },
+  "id": 341,
+  "name_ru": "Desert Eagle | Заговор",
+  "name_en": "Desert Eagle | Conspiracy ",
+  "classid": "520026993",
+  "price": 121,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d8"
+  },
+  "id": 342,
+  "name_ru": "Desert Eagle | Ржавый кобальт",
+  "name_en": "Desert Eagle | Cobalt Disruption ",
+  "classid": "310777915",
+  "price": 373,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299d9"
+  },
+  "id": 343,
+  "name_ru": "AWP | Кортисейра",
+  "name_en": "AWP | Corticera ",
+  "classid": "527645227",
+  "price": 350,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299da"
+  },
+  "id": 344,
+  "name_ru": "AWP | Электрический улей",
+  "name_en": "AWP | Electric Hive ",
+  "classid": "310777067",
+  "price": 666,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299db"
+  },
+  "id": 345,
+  "name_ru": "AK-47 | Красный глянец",
+  "name_en": "AK-47 | Red Laminate ",
+  "classid": "310776621",
+  "price": 471,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299dc"
+  },
+  "id": 346,
+  "name_ru": "M4A1-S | Огонь Чантико",
+  "name_en": "M4A1-S | Chantico's Fire ",
+  "classid": "1703417002",
+  "price": 822,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299dd"
+  },
+  "id": 347,
+  "name_ru": "AK-47 | Аквамариновая месть",
+  "name_en": "AK-47 | Aquamarine Revenge ",
+  "classid": "1011934684",
+  "price": 631,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299de"
+  },
+  "id": 348,
+  "name_ru": "AK-47 | Топливный инжектор",
+  "name_en": "AK-47 | Fuel Injector ",
+  "classid": "1560441603",
+  "price": 1417,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299df"
+  },
+  "id": 349,
+  "name_ru": "AK-47 | Ягуар",
+  "name_en": "AK-47 | Jaguar ",
+  "classid": "527663032",
+  "price": 567,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e0"
+  },
+  "id": 350,
+  "name_ru": "AK-47 | Неоновая революция",
+  "name_en": "AK-47 | Neon Revolution ",
+  "classid": "1934517468",
+  "price": 1414,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e1"
+  },
+  "id": 351,
+  "name_ru": "AK-47 | Вулкан",
+  "name_en": "AK-47 | Vulcan ",
+  "classid": "469523518",
+  "price": 669,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e2"
+  },
+  "id": 352,
+  "name_ru": "AK-47 | Пустынный повстанец",
+  "name_en": "AK-47 | Wasteland Rebel ",
+  "classid": "638243898",
+  "price": 958,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e3"
+  },
+  "id": 353,
+  "name_ru": "AUG | Акихабара",
+  "name_en": "AUG | Akihabara Accept ",
+  "classid": "992157631",
+  "price": 1637,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e4"
+  },
+  "id": 354,
+  "name_ru": "AUG | Хамелеон",
+  "name_en": "AUG | Chameleon ",
+  "classid": "360475142",
+  "price": 84,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e5"
+  },
+  "id": 355,
+  "name_ru": "AWP | Азимов",
+  "name_en": "AWP | Asiimov ",
+  "classid": "360479494",
+  "price": 1394,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e6"
+  },
+  "id": 356,
+  "name_ru": "Sawed-Off | Кракен",
+  "name_en": "Sawed-Off | The Kraken ",
+  "classid": "310777078",
+  "price": 145,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e7"
+  },
+  "id": 357,
+  "name_ru": "AWP | Скоростной зверь",
+  "name_en": "AWP | Hyper Beast ",
+  "classid": "1011935077",
+  "price": 772,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e8"
+  },
+  "id": 358,
+  "name_ru": "AWP | Удар молнии",
+  "name_en": "AWP | Lightning Strike ",
+  "classid": "310777496",
+  "price": 3333,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299e9"
+  },
+  "id": 359,
+  "name_ru": "AWP | Боец",
+  "name_en": "AWP | Man-o'-war ",
+  "classid": "720307050",
+  "price": 606,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ea"
+  },
+  "id": 360,
+  "name_ru": "AWP | Медуза",
+  "name_en": "AWP | Medusa ",
+  "classid": "992131468",
+  "price": 25850,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299eb"
+  },
+  "id": 361,
+  "name_ru": "CZ75-Auto | Виктория",
+  "name_en": "CZ75-Auto | Victoria ",
+  "classid": "350514676",
+  "price": 145,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ec"
+  },
+  "id": 362,
+  "name_ru": "Desert Eagle | Золотой карп",
+  "name_en": "Desert Eagle | Golden Koi ",
+  "classid": "310780956",
+  "price": 695,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ed"
+  },
+  "id": 363,
+  "name_ru": "FAMAS | Защитный каркас",
+  "name_en": "FAMAS | Roll Cage ",
+  "classid": "1934425373",
+  "price": 212,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ee"
+  },
+  "id": 364,
+  "name_ru": "Galil AR | Щелкунчик",
+  "name_en": "Galil AR | Chatterbox ",
+  "classid": "720357195",
+  "price": 89,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ef"
+  },
+  "id": 365,
+  "name_ru": "AK-47 | Огненный змей",
+  "name_en": "AK-47 | Fire Serpent ",
+  "classid": "310779465",
+  "price": 5976,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f0"
+  },
+  "id": 366,
+  "name_ru": "M4A1-S | Сайрекс",
+  "name_en": "M4A1-S | Cyrex ",
+  "classid": "520029997",
+  "price": 419,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f1"
+  },
+  "id": 367,
+  "name_ru": "Револьвер R8 | Янтарный градиент",
+  "name_en": "R8 Revolver | Amber Fade ",
+  "classid": "1432177230",
+  "price": 29,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f2"
+  },
+  "id": 368,
+  "name_ru": "SSG 08 | Кровь в воде",
+  "name_en": "SSG 08 | Blood in the Water ",
+  "classid": "310776630",
+  "price": 1053,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f3"
+  },
+  "id": 369,
+  "name_ru": "USP-S | Подтвержденное убийство",
+  "name_en": "USP-S | Kill Confirmed ",
+  "classid": "1316189902",
+  "price": 1230,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f4"
+  },
+  "id": 370,
+  "name_ru": "AWP | История о драконе",
+  "name_en": "AWP | Dragon Lore ",
+  "classid": "520020768",
+  "price": 35200,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f5"
+  },
+  "id": 371,
+  "name_ru": "M4A1-S | Золотая спираль",
+  "name_en": "M4A1-S | Golden Coil ",
+  "classid": "1310091948",
+  "price": 629,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f6"
+  },
+  "id": 372,
+  "name_ru": "M4A1-S | Скоростной зверь",
+  "name_en": "M4A1-S | Hyper Beast ",
+  "classid": "937306045",
+  "price": 474,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f7"
+  },
+  "id": 373,
+  "name_ru": "M4A4 | Азимов",
+  "name_en": "M4A4 | Asiimov ",
+  "classid": "310777979",
+  "price": 896,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f8"
+  },
+  "id": 374,
+  "name_ru": "M4A4 | Дождь из пуль",
+  "name_en": "M4A4 | Bullet Rain ",
+  "classid": "527651440",
+  "price": 340,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299f9"
+  },
+  "id": 375,
+  "name_ru": "M4A4 | Пустынная атака",
+  "name_en": "M4A4 | Desert-Strike ",
+  "classid": "506865564",
+  "price": 122,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299fa"
+  },
+  "id": 376,
+  "name_ru": "M4A4 | Преданный паладин",
+  "name_en": "M4A4 | Royal Paladin ",
+  "classid": "1440503029",
+  "price": 303,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299fb"
+  },
+  "id": 377,
+  "name_ru": "ПП-19 Бизон | Суд Анубиса",
+  "name_en": "PP-Bizon | Judgement of Anubis ",
+  "classid": "1704772284",
+  "price": 199,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299fc"
+  },
+  "id": 378,
+  "name_ru": "P90 | Смертоносные кошечки",
+  "name_en": "P90 | Death by Kitty ",
+  "classid": "310776733",
+  "price": 1047,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299fd"
+  },
+  "id": 379,
+  "name_ru": "P90 | Азимов",
+  "name_en": "P90 | Asiimov ",
+  "classid": "520027233",
+  "price": 156,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299fe"
+  },
+  "id": 380,
+  "name_ru": "P2000 | Дух огня",
+  "name_en": "P2000 | Fire Elemental ",
+  "classid": "638280534",
+  "price": 286,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a46299ff"
+  },
+  "id": 381,
+  "name_ru": "MAC-10 | Неоновый гонщик",
+  "name_en": "MAC-10 | Neon Rider ",
+  "classid": "937290898",
+  "price": 113,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a00"
+  },
+  "id": 382,
+  "name_ru": "M4A4 | Рентген",
+  "name_en": "M4A4 | X-Ray ",
+  "classid": "310777080",
+  "price": 294,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a01"
+  },
+  "id": 383,
+  "name_ru": "M4A4 | Звездный крейсер",
+  "name_en": "M4A4 | The Battlestar ",
+  "classid": "1560558873",
+  "price": 199,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a02"
+  },
+  "id": 384,
+  "name_ru": "★ Нож Боуи | Пиксельный камуфляж «Лес»",
+  "name_en": "★ Bowie Knife | Forest DDPAT ",
+  "classid": "1562744953",
+  "price": 2989,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a03"
+  },
+  "id": 385,
+  "name_ru": "★ Нож-бабочка | Кровавая паутина",
+  "name_en": "★ Butterfly Knife | Crimson Web ",
+  "classid": "520040863",
+  "price": 4948,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a04"
+  },
+  "id": 386,
+  "name_ru": "★ Фальшион | Градиент",
+  "name_en": "★ Falchion Knife | Fade ",
+  "classid": "1011953270",
+  "price": 5920,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a05"
+  },
+  "id": 387,
+  "name_ru": "★ Охотничий нож | Северный лес",
+  "name_en": "★ Huntsman Knife | Boreal Forest ",
+  "classid": "469572609",
+  "price": 2862,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a06"
+  },
+  "id": 388,
+  "name_ru": "★ Охотничий нож | Городская маскировка",
+  "name_en": "★ Huntsman Knife | Urban Masked ",
+  "classid": "469812851",
+  "price": 2952,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a07"
+  },
+  "id": 389,
+  "name_ru": "★ Нож Боуи | Ночь",
+  "name_en": "★ Bowie Knife | Night ",
+  "classid": "1561827097",
+  "price": 3828,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a08"
+  },
+  "id": 390,
+  "name_ru": "★ Нож-бабочка | Градиент",
+  "name_en": "★ Butterfly Knife | Fade ",
+  "classid": "520032493",
+  "price": 13480,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a09"
+  },
+  "id": 391,
+  "name_ru": "★ Фальшион | Пиксельный камуфляж «Лес»",
+  "name_en": "★ Falchion Knife | Forest DDPAT ",
+  "classid": "1015029332",
+  "price": 2347,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0a"
+  },
+  "id": 392,
+  "name_ru": "★ Охотничий нож | Поверхностная закалка",
+  "name_en": "★ Huntsman Knife | Case Hardened ",
+  "classid": "469578651",
+  "price": 4091,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0b"
+  },
+  "id": 393,
+  "name_ru": "★ Тычковые ножи | Патина",
+  "name_en": "★ Shadow Daggers | Stained ",
+  "classid": "1315261652",
+  "price": 2649,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0c"
+  },
+  "id": 394,
+  "name_ru": "★ Тычковые ножи | Убийство",
+  "name_en": "★ Shadow Daggers | Slaughter ",
+  "classid": "1315055742",
+  "price": 4363,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0d"
+  },
+  "id": 395,
+  "name_ru": "★ Нож Боуи | Сажа",
+  "name_en": "★ Bowie Knife | Scorched ",
+  "classid": "1563045827",
+  "price": 2832,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0e"
+  },
+  "id": 396,
+  "name_ru": "★ Нож-бабочка | Африканская сетка",
+  "name_en": "★ Butterfly Knife | Safari Mesh ",
+  "classid": "520116747",
+  "price": 3763,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a0f"
+  },
+  "id": 397,
+  "name_ru": "★ Фальшион | Африканская сетка",
+  "name_en": "★ Falchion Knife | Safari Mesh ",
+  "classid": "1011976281",
+  "price": 2288,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a10"
+  },
+  "id": 398,
+  "name_ru": "★ Охотничий нож | Кровавая паутина",
+  "name_en": "★ Huntsman Knife | Crimson Web ",
+  "classid": "469505906",
+  "price": 4084,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a11"
+  },
+  "id": 399,
+  "name_ru": "★ Тычковые ножи | Африканская сетка",
+  "name_en": "★ Shadow Daggers | Safari Mesh ",
+  "classid": "1312373963",
+  "price": 2252,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a12"
+  },
+  "id": 400,
+  "name_ru": "★ Тычковые ножи | Вороненая сталь",
+  "name_en": "★ Shadow Daggers | Blue Steel ",
+  "classid": "1313090220",
+  "price": 2876,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a13"
+  },
+  "id": 401,
+  "name_ru": "★ Охотничий нож | Ночь",
+  "name_en": "★ Huntsman Knife | Night ",
+  "classid": "470031630",
+  "price": 3659,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a14"
+  },
+  "id": 402,
+  "name_ru": "★ Фальшион | Сажа",
+  "name_en": "★ Falchion Knife | Scorched ",
+  "classid": "1013007205",
+  "price": 2312,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a15"
+  },
+  "id": 403,
+  "name_ru": "★ Нож Боуи | Убийство",
+  "name_en": "★ Bowie Knife | Slaughter ",
+  "classid": "1560438545",
+  "price": 8326,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a16"
+  },
+  "id": 404,
+  "name_ru": "★ Нож-бабочка | Сажа",
+  "name_en": "★ Butterfly Knife | Scorched ",
+  "classid": "521489221",
+  "price": 3785,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a17"
+  },
+  "id": 405,
+  "name_ru": "★ Нож Боуи | Вороненая сталь",
+  "name_en": "★ Bowie Knife | Blue Steel ",
+  "classid": "1561312187",
+  "price": 4784,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a18"
+  },
+  "id": 406,
+  "name_ru": "★ Нож Боуи | Патина",
+  "name_en": "★ Bowie Knife | Stained ",
+  "classid": "1562737228",
+  "price": 3922,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a19"
+  },
+  "id": 407,
+  "name_ru": "★ Нож-бабочка | Убийство",
+  "name_en": "★ Butterfly Knife | Slaughter ",
+  "classid": "520101595",
+  "price": 8904,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1a"
+  },
+  "id": 408,
+  "name_ru": "★ Фальшион | Убийство",
+  "name_en": "★ Falchion Knife | Slaughter ",
+  "classid": "1014687936",
+  "price": 4648,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1b"
+  },
+  "id": 409,
+  "name_ru": "★ Охотничий нож | Африканская сетка",
+  "name_en": "★ Huntsman Knife | Safari Mesh ",
+  "classid": "469480153",
+  "price": 2817,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1c"
+  },
+  "id": 410,
+  "name_ru": "★ Тычковые ножи | Поверхностная закалка",
+  "name_en": "★ Shadow Daggers | Case Hardened ",
+  "classid": "1312644655",
+  "price": 3043,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1d"
+  },
+  "id": 411,
+  "name_ru": "★ Нож Боуи | Северный лес",
+  "name_en": "★ Bowie Knife | Boreal Forest ",
+  "classid": "1562765404",
+  "price": 3066,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1e"
+  },
+  "id": 412,
+  "name_ru": "★ Нож Боуи | Городская маскировка",
+  "name_en": "★ Bowie Knife | Urban Masked ",
+  "classid": "1560803749",
+  "price": 3016,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a1f"
+  },
+  "id": 413,
+  "name_ru": "★ Фальшион | Северный лес",
+  "name_en": "★ Falchion Knife | Boreal Forest ",
+  "classid": "1012850256",
+  "price": 2393,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a20"
+  },
+  "id": 414,
+  "name_ru": "★ Фальшион | Патина",
+  "name_en": "★ Falchion Knife | Stained ",
+  "classid": "1014690853",
+  "price": 2487,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a21"
+  },
+  "id": 415,
+  "name_ru": "★ Охотничий нож | Сажа",
+  "name_en": "★ Huntsman Knife | Scorched ",
+  "classid": "474032540",
+  "price": 2864,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a22"
+  },
+  "id": 416,
+  "name_ru": "★ Тычковые ножи | Кровавая паутина",
+  "name_en": "★ Shadow Daggers | Crimson Web ",
+  "classid": "1312332729",
+  "price": 3231,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a23"
+  },
+  "id": 417,
+  "name_ru": "★ Тычковые ножи | Градиент",
+  "name_en": "★ Shadow Daggers | Fade ",
+  "classid": "1312341994",
+  "price": 6661,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a24"
+  },
+  "id": 418,
+  "name_ru": "★ Охотничий нож | Убийство",
+  "name_en": "★ Huntsman Knife | Slaughter ",
+  "classid": "469545974",
+  "price": 6303,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a25"
+  },
+  "id": 419,
+  "name_ru": "★ Фальшион | Городская маскировка",
+  "name_en": "★ Falchion Knife | Urban Masked ",
+  "classid": "1014100584",
+  "price": 2342,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a26"
+  },
+  "id": 420,
+  "name_ru": "★ Фальшион | Кровавая паутина",
+  "name_en": "★ Falchion Knife | Crimson Web ",
+  "classid": "1014695806",
+  "price": 2920,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a27"
+  },
+  "id": 421,
+  "name_ru": "★ Нож-бабочка | Северный лес",
+  "name_en": "★ Butterfly Knife | Boreal Forest ",
+  "classid": "520031482",
+  "price": 3910,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a28"
+  },
+  "id": 422,
+  "name_ru": "★ Нож Боуи | Поверхностная закалка",
+  "name_en": "★ Bowie Knife | Case Hardened ",
+  "classid": "1562742751",
+  "price": 4848,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a29"
+  },
+  "id": 423,
+  "name_ru": "★ Керамбит | Убийство",
+  "name_en": "★ Karambit | Slaughter ",
+  "classid": "311021767",
+  "price": 14738,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2a"
+  },
+  "id": 424,
+  "name_ru": "★ Складной нож | Пиксельный камуфляж «Лес»",
+  "name_en": "★ Flip Knife | Forest DDPAT ",
+  "classid": "311498445",
+  "price": 2756,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2b"
+  },
+  "id": 425,
+  "name_ru": "★ Штык-нож M9 | Кровавая паутина",
+  "name_en": "★ M9 Bayonet | Crimson Web ",
+  "classid": "312307362",
+  "price": 6032,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2c"
+  },
+  "id": 426,
+  "name_ru": "★ Керамбит | Пиксельный камуфляж «Лес»",
+  "name_en": "★ Karambit | Forest DDPAT ",
+  "classid": "311955958",
+  "price": 6354,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2d"
+  },
+  "id": 427,
+  "name_ru": "★ Керамбит | Вороненая сталь",
+  "name_en": "★ Karambit | Blue Steel ",
+  "classid": "313674416",
+  "price": 9896,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2e"
+  },
+  "id": 428,
+  "name_ru": "★ Керамбит | Волны",
+  "name_en": "★ Karambit | Doppler ",
+  "classid": "721594909",
+  "price": 17919,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a2f"
+  },
+  "id": 429,
+  "name_ru": "★ Керамбит | Кровавая паутина",
+  "name_en": "★ Karambit | Crimson Web ",
+  "classid": "312713307",
+  "price": 9285,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a30"
+  },
+  "id": 430,
+  "name_ru": "★ Керамбит | Легенды",
+  "name_en": "★ Karambit | Lore ",
+  "classid": "1812816252",
+  "price": 16964,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a31"
+  },
+  "id": 431,
+  "name_ru": "★ Керамбит | Градиент",
+  "name_en": "★ Karambit | Fade ",
+  "classid": "310854699",
+  "price": 21271,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a32"
+  },
+  "id": 432,
+  "name_ru": "★ Керамбит | Чистая вода",
+  "name_en": "★ Karambit | Bright Water ",
+  "classid": "1815735891",
+  "price": 9946,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a33"
+  },
+  "id": 433,
+  "name_ru": "★ Керамбит | Городская маскировка",
+  "name_en": "★ Karambit | Urban Masked ",
+  "classid": "312880879",
+  "price": 6492,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a34"
+  },
+  "id": 434,
+  "name_ru": "★ Керамбит | Патина",
+  "name_en": "★ Karambit | Stained ",
+  "classid": "312328264",
+  "price": 8328,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a35"
+  },
+  "id": 435,
+  "name_ru": "★ Керамбит | Автотроника",
+  "name_en": "★ Karambit | Autotronic ",
+  "classid": "1812831127",
+  "price": 16898,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a36"
+  },
+  "id": 436,
+  "name_ru": "★ Керамбит | Поверхностная закалка",
+  "name_en": "★ Karambit | Case Hardened ",
+  "classid": "318689255",
+  "price": 10265,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a37"
+  },
+  "id": 437,
+  "name_ru": "★ Керамбит | Дамасская сталь",
+  "name_en": "★ Karambit | Damascus Steel ",
+  "classid": "721857727",
+  "price": 10540,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a38"
+  },
+  "id": 438,
+  "name_ru": "★ Керамбит | Северный лес",
+  "name_en": "★ Karambit | Boreal Forest ",
+  "classid": "310815809",
+  "price": 6488,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a39"
+  },
+  "id": 439,
+  "name_ru": "★ Керамбит | Ультрафиолет",
+  "name_en": "★ Karambit | Ultraviolet ",
+  "classid": "720385927",
+  "price": 8502,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3a"
+  },
+  "id": 440,
+  "name_ru": "★ Керамбит | Ручная роспись",
+  "name_en": "★ Karambit | Freehand ",
+  "classid": "1815674194",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3b"
+  },
+  "id": 441,
+  "name_ru": "★ Керамбит | Пыльник",
+  "name_en": "★ Karambit | Rust Coat ",
+  "classid": "720381639",
+  "price": 8671,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3c"
+  },
+  "id": 442,
+  "name_ru": "★ Керамбит | Сажа",
+  "name_en": "★ Karambit | Scorched ",
+  "classid": "313225800",
+  "price": 6485,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3d"
+  },
+  "id": 443,
+  "name_ru": "★ Керамбит | Зуб тигра",
+  "name_en": "★ Karambit | Tiger Tooth ",
+  "classid": "722403808",
+  "price": 22658,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3e"
+  },
+  "id": 444,
+  "name_ru": "★ Штык-нож | Северный лес",
+  "name_en": "★ Bayonet | Boreal Forest ",
+  "classid": "310845220",
+  "price": 3634,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a3f"
+  },
+  "id": 445,
+  "name_ru": "★ Штык-нож | Ультрафиолет",
+  "name_en": "★ Bayonet | Ultraviolet ",
+  "classid": "720744346",
+  "price": 4023,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a40"
+  },
+  "id": 446,
+  "name_ru": "★ Штык-нож | Африканская сетка",
+  "name_en": "★ Bayonet | Safari Mesh ",
+  "classid": "312110943",
+  "price": 3439,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a41"
+  },
+  "id": 447,
+  "name_ru": "★ Штык-нож | Пиксельный камуфляж «Лес»",
+  "name_en": "★ Bayonet | Forest DDPAT ",
+  "classid": "310992880",
+  "price": 3505,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a42"
+  },
+  "id": 448,
+  "name_ru": "★ Штык-нож | Зуб тигра",
+  "name_en": "★ Bayonet | Tiger Tooth ",
+  "classid": "721328469",
+  "price": 11855,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a43"
+  },
+  "id": 449,
+  "name_ru": "★ Штык-нож M9 | Ночь",
+  "name_en": "★ M9 Bayonet | Night ",
+  "classid": "313871789",
+  "price": 5336,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a44"
+  },
+  "id": 450,
+  "name_ru": "★ Штык-нож M9 | Пыльник",
+  "name_en": "★ M9 Bayonet | Rust Coat ",
+  "classid": "720353189",
+  "price": 5985,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a45"
+  },
+  "id": 451,
+  "name_ru": "★ Штык-нож | Мраморный градиент",
+  "name_en": "★ Bayonet | Marble Fade ",
+  "classid": "720800199",
+  "price": 14105,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a46"
+  },
+  "id": 452,
+  "name_ru": "★ Штык-нож | Дамасская сталь",
+  "name_en": "★ Bayonet | Damascus Steel ",
+  "classid": "720377956",
+  "price": 5484,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a47"
+  },
+  "id": 453,
+  "name_ru": "★ Штык-нож M9 | Волны",
+  "name_en": "★ M9 Bayonet | Doppler ",
+  "classid": "720469187",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a48"
+  },
+  "id": 454,
+  "name_ru": "★ Штык-нож M9 | Патина",
+  "name_en": "★ M9 Bayonet | Stained ",
+  "classid": "311451484",
+  "price": 5686,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a49"
+  },
+  "id": 455,
+  "name_ru": "★ Штык-нож | Сажа",
+  "name_en": "★ Bayonet | Scorched ",
+  "classid": "310877902",
+  "price": 3610,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4a"
+  },
+  "id": 456,
+  "name_ru": "★ Штык-нож | Поверхностная закалка",
+  "name_en": "★ Bayonet | Case Hardened ",
+  "classid": "311161707",
+  "price": 5536,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4b"
+  },
+  "id": 457,
+  "name_ru": "★ Штык-нож | Волны",
+  "name_en": "★ Bayonet | Doppler ",
+  "classid": "720437240",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4c"
+  },
+  "id": 458,
+  "name_ru": "★ Штык-нож | Вороненая сталь",
+  "name_en": "★ Bayonet | Blue Steel ",
+  "classid": "311867303",
+  "price": 5525,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4d"
+  },
+  "id": 459,
+  "name_ru": "★ Штык-нож M9",
+  "name_en": "★ M9 Bayonet",
+  "classid": "313616065",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4e"
+  },
+  "id": 460,
+  "name_ru": "★ Штык-нож | Убийство",
+  "name_en": "★ Bayonet | Slaughter ",
+  "classid": "314074547",
+  "price": 7140,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a4f"
+  },
+  "id": 461,
+  "name_ru": "★ Складной нож | Пыльник",
+  "name_en": "★ Flip Knife | Rust Coat ",
+  "classid": "721038259",
+  "price": 3407,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a50"
+  },
+  "id": 462,
+  "name_ru": "★ Складной нож | Африканская сетка",
+  "name_en": "★ Flip Knife | Safari Mesh ",
+  "classid": "310849387",
+  "price": 2660,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a51"
+  },
+  "id": 463,
+  "name_ru": "★ Складной нож | Северный лес",
+  "name_en": "★ Flip Knife | Boreal Forest ",
+  "classid": "311870038",
+  "price": 2741,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a52"
+  },
+  "id": 464,
+  "name_ru": "★ Складной нож | Дамасская сталь",
+  "name_en": "★ Flip Knife | Damascus Steel ",
+  "classid": "720803652",
+  "price": 3431,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a53"
+  },
+  "id": 465,
+  "name_ru": "★ Складной нож | Волны",
+  "name_en": "★ Flip Knife | Doppler ",
+  "classid": "720544632",
+  "price": 7072,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a54"
+  },
+  "id": 466,
+  "name_ru": "★ Складной нож | Ночь",
+  "name_en": "★ Flip Knife | Night ",
+  "classid": "332971791",
+  "price": 3001,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a55"
+  },
+  "id": 467,
+  "name_ru": "★ Складной нож | Мраморный градиент",
+  "name_en": "★ Flip Knife | Marble Fade ",
+  "classid": "720540811",
+  "price": 9252,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a56"
+  },
+  "id": 468,
+  "name_ru": "★ Складной нож | Сажа",
+  "name_en": "★ Flip Knife | Scorched ",
+  "classid": "311033255",
+  "price": 2673,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a57"
+  },
+  "id": 469,
+  "name_ru": "★ Складной нож | Городская маскировка",
+  "name_en": "★ Flip Knife | Urban Masked ",
+  "classid": "313464843",
+  "price": 2655,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a58"
+  },
+  "id": 470,
+  "name_ru": "★ Складной нож | Патина",
+  "name_en": "★ Flip Knife | Stained ",
+  "classid": "311604815",
+  "price": 3165,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a59"
+  },
+  "id": 471,
+  "name_ru": "★ Складной нож | Вороненая сталь",
+  "name_en": "★ Flip Knife | Blue Steel ",
+  "classid": "310846239",
+  "price": 3609,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5a"
+  },
+  "id": 472,
+  "name_ru": "★ Складной нож | Убийство",
+  "name_en": "★ Flip Knife | Slaughter ",
+  "classid": "313725966",
+  "price": 6296,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5b"
+  },
+  "id": 473,
+  "name_ru": "★ Складной нож | Градиент",
+  "name_en": "★ Flip Knife | Fade ",
+  "classid": "311194743",
+  "price": 8317,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5c"
+  },
+  "id": 474,
+  "name_ru": "★ Складной нож | Гамма-волны",
+  "name_en": "★ Flip Knife | Gamma Doppler ",
+  "classid": "1816808393",
+  "price": 10679,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5d"
+  },
+  "id": 475,
+  "name_ru": "★ Складной нож | Чистая вода",
+  "name_en": "★ Flip Knife | Bright Water ",
+  "classid": "1816447375",
+  "price": 4209,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5e"
+  },
+  "id": 476,
+  "name_ru": "★ Складной нож | Поверхностная закалка",
+  "name_en": "★ Flip Knife | Case Hardened ",
+  "classid": "314171098",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a5f"
+  },
+  "id": 477,
+  "name_ru": "★ Складной нож | Кровавая паутина",
+  "name_en": "★ Flip Knife | Crimson Web ",
+  "classid": "312077349",
+  "price": 3579,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a60"
+  },
+  "id": 478,
+  "name_ru": "★ Складной нож | Легенды",
+  "name_en": "★ Flip Knife | Lore ",
+  "classid": "1817968422",
+  "price": 6818,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a61"
+  },
+  "id": 479,
+  "name_ru": "★ Складной нож | Автотроника",
+  "name_en": "★ Flip Knife | Autotronic ",
+  "classid": "1818056142",
+  "price": 6063,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a62"
+  },
+  "id": 480,
+  "name_ru": "★ Складной нож | Ручная роспись",
+  "name_en": "★ Flip Knife | Freehand ",
+  "classid": "1816182493",
+  "price": 5441,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a63"
+  },
+  "id": 481,
+  "name_ru": "★ Нож с лезвием-крюком | Чистая вода",
+  "name_en": "★ Gut Knife | Bright Water ",
+  "classid": "1818150636",
+  "price": 3049,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a64"
+  },
+  "id": 482,
+  "name_ru": "★ Нож с лезвием-крюком | Африканская сетка",
+  "name_en": "★ Gut Knife | Safari Mesh ",
+  "classid": "313007698",
+  "price": 2225,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a65"
+  },
+  "id": 483,
+  "name_ru": "★ Нож с лезвием-крюком | Кровавая паутина",
+  "name_en": "★ Gut Knife | Crimson Web ",
+  "classid": "311935035",
+  "price": 2702,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a66"
+  },
+  "id": 484,
+  "name_ru": "★ Нож с лезвием-крюком | Северный лес",
+  "name_en": "★ Gut Knife | Boreal Forest ",
+  "classid": "312702723",
+  "price": 2322,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a67"
+  },
+  "id": 485,
+  "name_ru": "★ Нож с лезвием-крюком | Зуб тигра",
+  "name_en": "★ Gut Knife | Tiger Tooth ",
+  "classid": "721686311",
+  "price": 4881,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a68"
+  },
+  "id": 486,
+  "name_ru": "★ Нож с лезвием-крюком | Волны",
+  "name_en": "★ Gut Knife | Doppler ",
+  "classid": "720778872",
+  "price": 4058,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a69"
+  },
+  "id": 487,
+  "name_ru": "★ Нож с лезвием-крюком | Городская маскировка",
+  "name_en": "★ Gut Knife | Urban Masked ",
+  "classid": "311367499",
+  "price": 2307,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6a"
+  },
+  "id": 488,
+  "name_ru": "★ Нож с лезвием-крюком | Ультрафиолет",
+  "name_en": "★ Gut Knife | Ultraviolet ",
+  "classid": "721593408",
+  "price": 2550,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6b"
+  },
+  "id": 489,
+  "name_ru": "★ Нож с лезвием-крюком | Сажа",
+  "name_en": "★ Gut Knife | Scorched ",
+  "classid": "311134001",
+  "price": 2311,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6c"
+  },
+  "id": 490,
+  "name_ru": "★ Нож с лезвием-крюком | Ночь",
+  "name_en": "★ Gut Knife | Night ",
+  "classid": "311814110",
+  "price": 2439,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6d"
+  },
+  "id": 491,
+  "name_ru": "★ Нож с лезвием-крюком | Убийство",
+  "name_en": "★ Gut Knife | Slaughter ",
+  "classid": "311019907",
+  "price": 3269,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6e"
+  },
+  "id": 492,
+  "name_ru": "★ Нож с лезвием-крюком | Легенды",
+  "name_en": "★ Gut Knife | Lore ",
+  "classid": "1816596721",
+  "price": 4431,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a6f"
+  },
+  "id": 493,
+  "name_ru": "★ Нож с лезвием-крюком | Вороненая сталь",
+  "name_en": "★ Gut Knife | Blue Steel ",
+  "classid": "310879092",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a70"
+  },
+  "id": 494,
+  "name_ru": "★ Нож с лезвием-крюком | Поверхностная закалка",
+  "name_en": "★ Gut Knife | Case Hardened ",
+  "classid": "313875208",
+  "price": 2901,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a71"
+  },
+  "id": 495,
+  "name_ru": "★ Нож с лезвием-крюком | Ручная роспись",
+  "name_en": "★ Gut Knife | Freehand ",
+  "classid": "1816238255",
+  "price": 3505,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a72"
+  },
+  "id": 496,
+  "name_ru": "★ Нож с лезвием-крюком | Гамма-волны",
+  "name_en": "★ Gut Knife | Gamma Doppler ",
+  "classid": "1817791289",
+  "price": 0,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a73"
+  },
+  "id": 497,
+  "name_ru": "USP-S | Нержавейка",
+  "name_en": "USP-S | Stainless ",
+  "classid": "350450809",
+  "price": 95,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a74"
+  },
+  "id": 498,
+  "name_ru": "★ Штык-нож | Городская маскировка",
+  "name_en": "★ Bayonet | Urban Masked ",
+  "classid": "313654971",
+  "price": 3509,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a75"
+  },
+  "id": 499,
+  "name_ru": "★ Керамбит | Африканская сетка",
+  "name_en": "★ Karambit | Safari Mesh ",
+  "classid": "310970642",
+  "price": 5967,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a76"
+  },
+  "id": 500,
+  "name_ru": "★ Штык-нож M9 | Вороненая сталь",
+  "name_en": "★ M9 Bayonet | Blue Steel ",
+  "classid": "314201248",
+  "price": 7212,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a77"
+  },
+  "id": 501,
+  "name_ru": "★ Штык-нож | Градиент",
+  "name_en": "★ Bayonet | Fade ",
+  "classid": "310959445",
+  "price": 10164,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a78"
+  },
+  "id": 502,
+  "name_ru": "★ Нож-бабочка",
+  "name_en": "★ Butterfly Knife",
+  "classid": "520172396",
+  "price": 3749,
+  "rar": "rare"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a79"
+  },
+  "id": 503,
+  "name_ru": "Five-SeveN | Неистовый даймё",
+  "name_en": "Five-SeveN | Violent Daimyo ",
+  "classid": "1812818424",
+  "price": 10,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7a"
+  },
+  "id": 504,
+  "name_ru": "MAC-10 | Плотоядный",
+  "name_en": "MAC-10 | Carnivore ",
+  "classid": "1812818754",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7b"
+  },
+  "id": 505,
+  "name_ru": "Nova | Экзо",
+  "name_en": "Nova | Exo ",
+  "classid": "1812813350",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7c"
+  },
+  "id": 506,
+  "name_ru": "P250 | Железное покрытие",
+  "name_en": "P250 | Iron Clad ",
+  "classid": "1812818783",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7d"
+  },
+  "id": 507,
+  "name_ru": "ПП-19 Бизон | Жнец",
+  "name_en": "PP-Bizon | Harvester ",
+  "classid": "1812822492",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7e"
+  },
+  "id": 508,
+  "name_ru": "SG 553 | Полет",
+  "name_en": "SG 553 | Aerial ",
+  "classid": "1812818831",
+  "price": 5,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a7f"
+  },
+  "id": 509,
+  "name_ru": "Tec-9 | Ледниковый покров",
+  "name_en": "Tec-9 | Ice Cap ",
+  "classid": "1812818784",
+  "price": 6,
+  "rar": "milspec"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a80"
+  },
+  "id": 510,
+  "name_ru": "AUG | Аристократ",
+  "name_en": "AUG | Aristocrat ",
+  "classid": "1812816831",
+  "price": 31,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a81"
+  },
+  "id": 511,
+  "name_ru": "AWP | Фобос",
+  "name_en": "AWP | Phobos ",
+  "classid": "1812816683",
+  "price": 138,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a82"
+  },
+  "id": 512,
+  "name_ru": "P90 | Воин дорог",
+  "name_en": "P90 | Chopper ",
+  "classid": "1812814892",
+  "price": 32,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a83"
+  },
+  "id": 513,
+  "name_ru": "Револьвер R8 | Перезагрузка",
+  "name_en": "R8 Revolver | Reboot ",
+  "classid": "1812855493",
+  "price": 30,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a84"
+  },
+  "id": 514,
+  "name_ru": "Sawed-Off | В центре внимания",
+  "name_en": "Sawed-Off | Limelight ",
+  "classid": "1812918047",
+  "price": 30,
+  "rar": "restricted"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a85"
+  },
+  "id": 515,
+  "name_ru": "M4A4 | Безлюдный космос",
+  "name_en": "M4A4 | Desolate Space ",
+  "classid": "1812817007",
+  "price": 578,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a86"
+  },
+  "id": 516,
+  "name_ru": "P2000 | Императорский дракон",
+  "name_en": "P2000 | Imperial Dragon ",
+  "classid": "1812837511",
+  "price": 92,
+  "rar": "classified"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a87"
+  },
+  "id": 517,
+  "name_ru": "Glock-18 | Пустынный повстанец",
+  "name_en": "Glock-18 | Wasteland Rebel ",
+  "classid": "1813198903",
+  "price": 412,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a88"
+  },
+  "id": 518,
+  "name_ru": "M4A1-S | Механо-пушка",
+  "name_en": "M4A1-S | Mecha Industries ",
+  "classid": "1812832980",
+  "price": 882,
+  "rar": "covert"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a89"
+  },
+  "id": 519,
+  "name_ru": "Наклейка | Natus Vincere | Atlanta 2017",
+  "name_en": "Sticker | Natus Vincere | Atlanta 2017",
+  "classid": "2135302633",
+  "price": 18,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8a"
+  },
+  "id": 520,
+  "name_ru": "Наклейка | Удачи",
+  "name_en": "Sticker | Good Luck",
+  "classid": "370198576",
+  "price": 29,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8b"
+  },
+  "id": 521,
+  "name_ru": "Наклейка | Повеселимся",
+  "name_en": "Sticker | Have Fun",
+  "classid": "370192820",
+  "price": 27,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8c"
+  },
+  "id": 522,
+  "name_ru": "Наклейка | Банан",
+  "name_en": "Sticker | Banana",
+  "classid": "370200731",
+  "price": 57,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8d"
+  },
+  "id": 523,
+  "name_ru": "Наклейка | Черный пес",
+  "name_en": "Sticker | Black Dog",
+  "classid": "341293273",
+  "price": 64,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8e"
+  },
+  "id": 524,
+  "name_ru": "Наклейка | Код от бомбы",
+  "name_en": "Sticker | Bomb Code",
+  "classid": "370199479",
+  "price": 46,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a8f"
+  },
+  "id": 525,
+  "name_ru": "Наклейка | Собака-взрывака",
+  "name_en": "Sticker | Bomb Doge",
+  "classid": "469453702",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a90"
+  },
+  "id": 526,
+  "name_ru": "Наклейка | Сжечь их всех",
+  "name_en": "Sticker | Burn Them All",
+  "classid": "469445896",
+  "price": 36,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a91"
+  },
+  "id": 527,
+  "name_ru": "Наклейка | Любитель цыпочек",
+  "name_en": "Sticker | Chicken Lover",
+  "classid": "370203990",
+  "price": 28,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a92"
+  },
+  "id": 528,
+  "name_ru": "Наклейка | Смерть идет",
+  "name_en": "Sticker | Death Comes",
+  "classid": "506856507",
+  "price": 63,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a93"
+  },
+  "id": 529,
+  "name_ru": "Наклейка | Плевое дело",
+  "name_en": "Sticker | Easy Peasy",
+  "classid": "341284854",
+  "price": 104,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a94"
+  },
+  "id": 530,
+  "name_ru": "Наклейка | Грозный",
+  "name_en": "Sticker | Fearsome",
+  "classid": "341287384",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a95"
+  },
+  "id": 531,
+  "name_ru": "Наклейка | Хорошая игра",
+  "name_en": "Sticker | Good Game",
+  "classid": "370196642",
+  "price": 37,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a96"
+  },
+  "id": 532,
+  "name_ru": "Наклейка | Удар в спину",
+  "name_en": "Sticker | Backstab",
+  "classid": "469457098",
+  "price": 47,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a97"
+  },
+  "id": 533,
+  "name_ru": "Наклейка | Цербер",
+  "name_en": "Sticker | Cerberus",
+  "classid": "341276721",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a98"
+  },
+  "id": 534,
+  "name_ru": "Наклейка | Лама-пушка",
+  "name_en": "Sticker | Llama Cannon",
+  "classid": "469455392",
+  "price": 46,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a99"
+  },
+  "id": 535,
+  "name_ru": "Наклейка | Везунчик",
+  "name_en": "Sticker | Luck Skill",
+  "classid": "341291325",
+  "price": 40,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9a"
+  },
+  "id": 536,
+  "name_ru": "Наклейка | Чертова дюжина",
+  "name_en": "Sticker | Lucky 13",
+  "classid": "341280565",
+  "price": 42,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9b"
+  },
+  "id": 537,
+  "name_ru": "Наклейка | Козырные тузы",
+  "name_en": "Sticker | Aces High",
+  "classid": "341303172",
+  "price": 53,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9c"
+  },
+  "id": 538,
+  "name_ru": "Наклейка | Металл",
+  "name_en": "Sticker | Metal",
+  "classid": "370199686",
+  "price": 31,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9d"
+  },
+  "id": 539,
+  "name_ru": "Наклейка | Запасной AWP",
+  "name_en": "Sticker | My Other Awp",
+  "classid": "469441600",
+  "price": 82,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9e"
+  },
+  "id": 540,
+  "name_ru": "Наклейка | Открытый череп",
+  "name_en": "Sticker | Rising Skull",
+  "classid": "469457919",
+  "price": 61,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629a9f"
+  },
+  "id": 541,
+  "name_ru": "Наклейка | Найти и уничтожить",
+  "name_en": "Sticker | Seek & Destroy",
+  "classid": "341284533",
+  "price": 50,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa0"
+  },
+  "id": 542,
+  "name_ru": "Наклейка | Повелитель лезвия",
+  "name_en": "Sticker | Shave Master",
+  "classid": "469444304",
+  "price": 54,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa1"
+  },
+  "id": 543,
+  "name_ru": "Наклейка | Тише воды, ниже травы",
+  "name_en": "Sticker | Sneaky Beaky Like",
+  "classid": "469458804",
+  "price": 89,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa2"
+  },
+  "id": 544,
+  "name_ru": "Наклейка | Б или не Б",
+  "name_en": "Sticker | To B or not to B",
+  "classid": "469460123",
+  "price": 42,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa3"
+  },
+  "id": 545,
+  "name_ru": "Наклейка | Бдительность",
+  "name_en": "Sticker | Vigilance",
+  "classid": "341288898",
+  "price": 39,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa4"
+  },
+  "id": 546,
+  "name_ru": "Наклейка | Бдительность (голографическая)",
+  "name_en": "Sticker | Vigilance ",
+  "classid": "341278250",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa5"
+  },
+  "id": 547,
+  "name_ru": "Наклейка | Завоеватель",
+  "name_en": "Sticker | I Conquered",
+  "classid": "341291535",
+  "price": 42,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa6"
+  },
+  "id": 548,
+  "name_ru": "Наклейка | Охотник за головами (металлическая)",
+  "name_en": "Sticker | Headhunter ",
+  "classid": "469473248",
+  "price": 1652,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa7"
+  },
+  "id": 549,
+  "name_ru": "Наклейка | Огнеопасно (металлическая)",
+  "name_en": "Sticker | Flammable ",
+  "classid": "469458272",
+  "price": 1415,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa8"
+  },
+  "id": 550,
+  "name_ru": "Наклейка | Bish (голографическая)",
+  "name_en": "Sticker | Bish ",
+  "classid": "370201720",
+  "price": 123,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aa9"
+  },
+  "id": 551,
+  "name_ru": "Наклейка | Rekt (голографическая)",
+  "name_en": "Sticker | Rekt ",
+  "classid": "506859530",
+  "price": 201,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aaa"
+  },
+  "id": 552,
+  "name_ru": "Наклейка | Везунчик (металлическая)",
+  "name_en": "Sticker | Luck Skill ",
+  "classid": "341290526",
+  "price": 208,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aab"
+  },
+  "id": 553,
+  "name_ru": "Наклейка | Корона (металлическая)",
+  "name_en": "Sticker | Crown ",
+  "classid": "370205988",
+  "price": 3899,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aac"
+  },
+  "id": 554,
+  "name_ru": "Наклейка | Snax (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | Snax  | Cologne 2015",
+  "classid": "1225727109",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aad"
+  },
+  "id": 555,
+  "name_ru": "Наклейка | SmithZz (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | SmithZz  | Cologne 2015",
+  "classid": "1225724023",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aae"
+  },
+  "id": 556,
+  "name_ru": "Наклейка | AZR (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | AZR  | Cologne 2015",
+  "classid": "1225747773",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aaf"
+  },
+  "id": 557,
+  "name_ru": "Наклейка | FNS (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | FNS  | Cologne 2015",
+  "classid": "1225731358",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab0"
+  },
+  "id": 558,
+  "name_ru": "Наклейка | GeT_RiGhT (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | GeT_RiGhT  | Cologne 2015",
+  "classid": "1225724134",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab1"
+  },
+  "id": 559,
+  "name_ru": "Наклейка | Круть (металлическая)",
+  "name_en": "Sticker | Swag ",
+  "classid": "469459868",
+  "price": 1125,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab2"
+  },
+  "id": 560,
+  "name_ru": "Наклейка | SPUNJ (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | SPUNJ  | Cologne 2015",
+  "classid": "1225722344",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab3"
+  },
+  "id": 561,
+  "name_ru": "Наклейка | Глупый банан (металлическая)",
+  "name_en": "Sticker | Stupid Banana ",
+  "classid": "370202138",
+  "price": 146,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab4"
+  },
+  "id": 562,
+  "name_ru": "Наклейка | Командная работа (голографическая)",
+  "name_en": "Sticker | Teamwork ",
+  "classid": "469459906",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab5"
+  },
+  "id": 563,
+  "name_ru": "Наклейка | Козырные тузы (голографическая)",
+  "name_en": "Sticker | Aces High ",
+  "classid": "341286771",
+  "price": 130,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab6"
+  },
+  "id": 564,
+  "name_ru": "Наклейка | Грозный (голографическая)",
+  "name_en": "Sticker | Fearsome ",
+  "classid": "341294720",
+  "price": 150,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab7"
+  },
+  "id": 565,
+  "name_ru": "Наклейка | Let's Roll-oll (голографическая)",
+  "name_en": "Sticker | Let's Roll-oll ",
+  "classid": "370201843",
+  "price": 53,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab8"
+  },
+  "id": 566,
+  "name_ru": "Наклейка | Xyp9x (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | Xyp9x  | Cologne 2015",
+  "classid": "1225728843",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ab9"
+  },
+  "id": 567,
+  "name_ru": "Наклейка | allu (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | allu  | Cologne 2015",
+  "classid": "1225728845",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629aba"
+  },
+  "id": 568,
+  "name_ru": "Наклейка | cajunb (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | cajunb  | Cologne 2015",
+  "classid": "1225722341",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629abb"
+  },
+  "id": 569,
+  "name_ru": "Наклейка | dennis (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | dennis  | Cologne 2015",
+  "classid": "1225722172",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629abc"
+  },
+  "id": 570,
+  "name_ru": "Наклейка | device (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | device  | Cologne 2015",
+  "classid": "1225723688",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629abd"
+  },
+  "id": 571,
+  "name_ru": "Наклейка | f0rest (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | f0rest  | Cologne 2015",
+  "classid": "1225726330",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629abe"
+  },
+  "id": 572,
+  "name_ru": "Наклейка | jdm64 (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | jdm64  | Cologne 2015",
+  "classid": "1225723679",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629abf"
+  },
+  "id": 573,
+  "name_ru": "Наклейка | tarik (металлическая) | Кёльн 2015",
+  "name_en": "Sticker | tarik  | Cologne 2015",
+  "classid": "1225732033",
+  "price": 0,
+  "rar": "sticker"
+},{
+  "_id": {
+    "$oid": "60885daed7f459b6a4629ac0"
+  },
+  "id": 574,
+  "name_ru": "Наклейка | Утренний вой",
+  "name_en": "Sticker | Howling Dawn",
+  "classid": "506853395",
+  "price": 7394,
+  "rar": "sticker"
+}]

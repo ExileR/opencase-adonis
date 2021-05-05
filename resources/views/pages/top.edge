@@ -1,0 +1,46 @@
+@layout('layout')
+@section('content')
+<div class="tops">
+    @each(i in users)
+        @if(i.place > 5)
+        <div class="item">
+            <div class="avatar">
+                <div class="num">{{ i.place }}</div>
+                <a href="/user/{{ i._id }}"> <img src="{{ i.avatar }}" alt="" title=""></a></div>
+            <div class="name"><a href="/user/{{ i._id }}">{{ i.nickname }}</a></div>
+            <div class="st">
+                <div class="info-case"><span>{{ i.opened }}</span>Кейсов</div>
+                <div class="info-profit"><span>{{ i.profit }}Р</span>Профит</div>
+            </div>m
+        </div>
+		@endif
+    @endeach
+</div>
+<div class="table-wrapper">
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>Место</th>
+            <th>Пользователь</th>
+            <th>Кейсов открыл</th>
+            <th>Профит</th>
+        </tr>
+         @each(i in users)
+            @if(i.place < 6)
+            <tr>
+                <td>{{ i.place }}</td>
+                <td>
+                    <div class="avatar">
+                        <a href="/user/{{ i._id }}"><img src="{{ i.avatar }}" alt="" title=""></a>
+                    </div>
+                    <a href="#" class="user-name"></a><a href="/user/{{ i._id }}">{{ i.nickname }}</a></td>
+                <td>{{ i.opened }}</td>
+                <td>{{ i.profit }}Р</td>
+            </tr>
+			@endif
+        @endeach
+
+        </tbody>
+    </table>
+</div>
+@endsection

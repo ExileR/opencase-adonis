@@ -1,0 +1,71 @@
+@layout('layout')
+@section('content')
+    <div class="user-info clear">
+    <div class="short-info">
+        <div class="avatar"><img src="{{ profile.avatar }}" alt=""></div>
+        <div class="info">
+            <div class="name">{{ profile.nickname }}</div>
+            <div class="link-steam">
+                    <a href="https://steamcommunity.com/profiles/{{ profile.steamid }}" target="_blank">Профиль Steam</a>
+            </div>
+        </div>
+    </div>
+    <div class="user-stat">
+        <div class="item">
+            <div class="ico-user-case"></div>
+            Кейсов открыл: <b>{{ items.length }}</b></div>
+        <div class="item">
+            <div class="ico-user-profit"></div>
+            Профит: <b>{{ profile.profit }}Р</b></div>
+    </div>
+</div>
+<div class="profile-content">
+    <div class="profile-text">
+        <div class="sub-title no-border">
+            <div class="ico-profile-case"></div>
+            Предметы:
+        </div>
+        <div class="profile-list">
+            <div class="list-items clear">
+
+                @each(i in items)
+                    <div class="item {{ i.rar }}">
+                        <div class="actions">
+                            @if(i.status == 1)
+                                <div class="str" data-title="Продан пользоватем">
+                                    <div class="price">{{ i.price }}Р</div>
+                                </div>
+                            @elseif(i.status == 2)
+                                <div class="str" data-title="Отправлен">
+                                        <img src="/images/ico-success.png" alt="">
+                                </div>
+                                <div class="str" data-title="Цена">
+                                    <a class="price">{{ i.price }}Р</a>
+                                </div>
+                            @else
+                                <div class="price">{{ i.price }}Р</div>
+                                <div class="str" data-title="В ожидании"><a href="#"><img src="/images/ico-ready.png"
+                                                                                          alt=""></a></div>
+                            @endif
+                        </div>
+
+                        <div class="image"><img
+                                    src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/{{ i.classid }}/130fx65f"
+                                    alt=""></div>
+                        <div class="info">
+							<div class="name">{{ i.name_ru.split('|').slice(0, -1).join(' '); }}</div>
+							<div class="desc">{{ i.name_ru.split('|').slice(1).join(' '); }}</div>
+                        </div>
+                    </div>
+                @endeach
+				@if(items.length == 0)
+                    <b style="font-size: 1.5em;    color: white;">Тут пусто.</b>
+                    <br>
+                    <br>
+                @endif
+            </div>
+        </div>
+
+    </div>
+</div>
+@endsection
